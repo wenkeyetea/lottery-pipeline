@@ -9,13 +9,11 @@ name: Lottery Pipeline
 on:
   schedule:
     - cron: "0 14 * * *"   # 每天 UTC 14:00 = 北京时间 22:00
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/lottery.yml'
   workflow_dispatch:
-    inputs:
-      skip_fetch:
-        description: "跳过联网抓取（仅本地推算 + 出报告 + 部署）"
-        type: boolean
-        required: false
-        default: false
 
 permissions:
   contents: write   # 允许 commit 回 main
