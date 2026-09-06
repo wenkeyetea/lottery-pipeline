@@ -1,0 +1,31 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 测试/调试
+.pytest_cache/
+.last_rows
+.last_test_*
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 临时文件（不算数据）
+*.tmp
+*.bak
+*.log
+
+# 本机 WorkBuddy 记忆/自动化日志（云端不需要）
+.workbuddy/
+
+# 一次性脚本临时目录（setup-github.sh 写入）
+.setup_tmp/
