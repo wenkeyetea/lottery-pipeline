@@ -1,0 +1,117 @@
+# 六合每期推算与存档 · GitHub Actions 定时任务
+# 每天 22:00 (Asia/Shanghai) 自动跑完整 10 步管线，
+# 把数据 CSV / analysis.json / site/index.html 等一并 commit 回仓库，
+# 并把 site/ 部署到 gh-pages 分支作为线上仪表盘。
+# 触发时间换算: Asia/Shanghai 22:00 = UTC 14:00
+
+name: Lottery Pipeline
+
+on:
+  schedule:
+    - cron: "0 14 * * *"   # 每天 UTC 14:00 = 北京时间 22:00
+  workflow_dispatch:
+    inputs:
+      skip_fetch:
+        description: "跳过联网抓取（仅本地推算 + 出报告 + 部署）"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write   # 允许 commit 回 main
+  pages: write      # 允许部署到 gh-pages
+  id-token: write   # OIDC 部署 gh-pages 需要
+
+concurrency:
+  group: lottery-pipeline
+  cancel-in-progress: true
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 拉全历史，方便 git log 查看历次变更
+
+      - name: Setup Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-lottery-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-lottery-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch macau / hk (kjresultstatus)
+        if: ${{ !inputs.skip_fetch }}
+        run: python fetch_data.py
+        continue-on-error: true   # 联网偶发失败不阻塞
+
+      - name: Fetch laoao (55128)
+        if: ${{ !inputs.skip_fetch }}
+        run: python fetch_laoao.py
+        continue-on-error: true   # 老澳数据源偶发失败不阻塞
+
+      - name: Engine recalc
+        run: python engine.py
+
+      - name: Backtest
+        run: python backtest.py
+
+      - name: Predict next issue
+        run: python predict_next.py
+
+      - name: Close issues (real hit)
+        run: python close_issues.py
+
+      - name: Analyze patterns
+        run: python analyze_patterns.py
+        continue-on-error: true
+
+      - name: Regenerate dashboard
+        run: python regen_index.py
+
+      - name: Build report
+        run: python build_report.py
+
+      - name: Commit data + dashboard back to main
+        run: |
+          git config user.name "lottery-bot"
+          git config user.email "lottery-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "auto: pipeline @ $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site/ as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Print deploy URL
+        if: ${{ steps.deploy.outputs.page_url }}
+        run: echo "🌐 仪表盘上线: ${{ steps.deploy.outputs.page_url }}"
