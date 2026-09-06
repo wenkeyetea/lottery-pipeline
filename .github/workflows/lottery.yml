@@ -11,8 +11,6 @@ on:
     - cron: "0 14 * * *"   # 每天 UTC 14:00 = 北京时间 22:00
   push:
     branches: [main]
-    paths:
-      - '.github/workflows/lottery.yml'
   workflow_dispatch:
 
 permissions:
