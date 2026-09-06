@@ -111,5 +111,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Print deploy URL
-        if: ${{ steps.deploy.outputs.page_url }}
-        run: echo "🌐 仪表盘上线: ${{ steps.deploy.outputs.page_url }}"
+        if: success()
+        run: echo "Deploy finished"
