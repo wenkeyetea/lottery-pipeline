@@ -9247,6 +9247,584 @@
      }
     }
    }
+  },
+  {
+   "saved_at": "2026-09-20T14:03:45",
+   "regions": {
+    "老澳": {
+     "live_hits": {
+      "closed_issues": 16,
+      "2of2": {
+       "20": {
+        "hit_rate": 0.0125,
+        "hits": 4,
+        "groups": 320,
+        "issues_with_hit": 4
+       },
+       "40": {
+        "hit_rate": 0.0175,
+        "hits": 7,
+        "groups": 400,
+        "issues_with_hit": 4
+       },
+       "60": {
+        "hit_rate": 0.0083,
+        "hits": 5,
+        "groups": 600,
+        "issues_with_hit": 5
+       }
+      },
+      "3of3": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "groups": 320,
+       "issues_with_hit": 0
+      },
+      "3of2": {
+       "hit_rate": 0.0375,
+       "hits": 12,
+       "groups": 320,
+       "issues_with_hit": 9
+      },
+      "special_hit": {
+       "hit_rate": 0.0625,
+       "hits": 1,
+       "issues": 16
+      },
+      "zodiac": {
+       "1xiao": {
+        "hit_rate": 0.25,
+        "hits": 4,
+        "issues": 16
+       },
+       "2xiao": {
+        "hit_rate": 0.125,
+        "hits": 2,
+        "issues": 16
+       },
+       "3xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 16
+       },
+       "4xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 16
+       },
+       "5xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 16
+       }
+      },
+      "tail": {
+       "0wei": {
+        "hit_rate": 0.625,
+        "hits": 10,
+        "issues": 16
+       },
+       "1_9wei": {
+        "hit_rate": 0.25,
+        "hits": 4,
+        "issues": 16
+       },
+       "2wei": {
+        "hit_rate": 0.6875,
+        "hits": 11,
+        "issues": 16
+       },
+       "3wei": {
+        "hit_rate": 0.125,
+        "hits": 2,
+        "issues": 16
+       },
+       "4wei": {
+        "hit_rate": 0.0625,
+        "hits": 1,
+        "issues": 16
+       },
+       "5wei": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 16
+       }
+      },
+      "not_hit": {
+       "5": {
+        "hit_rate": 0.3125,
+        "hits": 5,
+        "issues": 16
+       },
+       "6": {
+        "hit_rate": 0.5,
+        "hits": 8,
+        "issues": 16
+       },
+       "7": {
+        "hit_rate": 0.25,
+        "hits": 4,
+        "issues": 16
+       },
+       "8": {
+        "hit_rate": 0.1875,
+        "hits": 3,
+        "issues": 16
+       },
+       "9": {
+        "hit_rate": 0.0625,
+        "hits": 1,
+        "issues": 16
+       },
+       "10": {
+        "hit_rate": 0.3125,
+        "hits": 5,
+        "issues": 16
+       }
+      }
+     },
+     "ai_live_hits": {
+      "closed_issues": 16,
+      "rebuilt": 9,
+      "main": {
+       "hit_rate": 0.0729,
+       "avg_hit": 0.44,
+       "hits": 7,
+       "total": 96,
+       "issues_with_hit": 4
+      },
+      "special_hit": {
+       "hit_rate": 0.0625,
+       "hits": 1,
+       "issues": 16
+      },
+      "zodiac_hit": {
+       "hit_rate": 0.125,
+       "hits": 2,
+       "issues": 16
+      },
+      "top10_hit": {
+       "hit_rate": 0.125,
+       "hits": 2,
+       "issues": 16
+      },
+      "2of2": {
+       "hit_rate": 0.0156,
+       "hits": 5,
+       "groups": 320,
+       "issues_with_hit": 3
+      },
+      "3of3": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "groups": 320,
+       "issues_with_hit": 0
+      }
+     },
+     "backtest": {
+      "2of2": {
+       "issues": 930,
+       "total_groups": 18600,
+       "total_hits": 215,
+       "hit_rate": 0.0116,
+       "issues_with_hit": 193,
+       "best_hits": 3,
+       "best_issue": "2026132"
+      },
+      "3of3": {
+       "issues": 930,
+       "total_groups": 18600,
+       "total_hits": 17,
+       "hit_rate": 0.0009,
+       "issues_with_hit": 16,
+       "best_hits": 2,
+       "best_issue": "2025088"
+      }
+     }
+    },
+    "澳门": {
+     "live_hits": {
+      "closed_issues": 28,
+      "2of2": {
+       "20": {
+        "hit_rate": 0.0196,
+        "hits": 11,
+        "groups": 560,
+        "issues_with_hit": 8
+       },
+       "40": {
+        "hit_rate": 0.0152,
+        "hits": 14,
+        "groups": 920,
+        "issues_with_hit": 11
+       },
+       "60": {
+        "hit_rate": 0.0159,
+        "hits": 22,
+        "groups": 1380,
+        "issues_with_hit": 14
+       }
+      },
+      "3of3": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "groups": 560,
+       "issues_with_hit": 0
+      },
+      "3of2": {
+       "hit_rate": 0.0304,
+       "hits": 17,
+       "groups": 560,
+       "issues_with_hit": 13
+      },
+      "special_hit": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "issues": 28
+      },
+      "zodiac": {
+       "1xiao": {
+        "hit_rate": 0.6071,
+        "hits": 17,
+        "issues": 28
+       },
+       "2xiao": {
+        "hit_rate": 0.1429,
+        "hits": 4,
+        "issues": 28
+       },
+       "3xiao": {
+        "hit_rate": 0.0714,
+        "hits": 2,
+        "issues": 28
+       },
+       "4xiao": {
+        "hit_rate": 0.0357,
+        "hits": 1,
+        "issues": 28
+       },
+       "5xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 28
+       }
+      },
+      "tail": {
+       "0wei": {
+        "hit_rate": 0.3571,
+        "hits": 10,
+        "issues": 28
+       },
+       "1_9wei": {
+        "hit_rate": 0.3571,
+        "hits": 10,
+        "issues": 28
+       },
+       "2wei": {
+        "hit_rate": 0.1786,
+        "hits": 5,
+        "issues": 28
+       },
+       "3wei": {
+        "hit_rate": 0.1429,
+        "hits": 4,
+        "issues": 28
+       },
+       "4wei": {
+        "hit_rate": 0.1071,
+        "hits": 3,
+        "issues": 28
+       },
+       "5wei": {
+        "hit_rate": 0.0357,
+        "hits": 1,
+        "issues": 28
+       }
+      },
+      "not_hit": {
+       "5": {
+        "hit_rate": 0.6071,
+        "hits": 17,
+        "issues": 28
+       },
+       "6": {
+        "hit_rate": 0.4643,
+        "hits": 13,
+        "issues": 28
+       },
+       "7": {
+        "hit_rate": 0.3929,
+        "hits": 11,
+        "issues": 28
+       },
+       "8": {
+        "hit_rate": 0.0714,
+        "hits": 2,
+        "issues": 28
+       },
+       "9": {
+        "hit_rate": 0.2143,
+        "hits": 6,
+        "issues": 28
+       },
+       "10": {
+        "hit_rate": 0.2143,
+        "hits": 6,
+        "issues": 28
+       }
+      }
+     },
+     "ai_live_hits": {
+      "closed_issues": 28,
+      "rebuilt": 8,
+      "main": {
+       "hit_rate": 0.1131,
+       "avg_hit": 0.68,
+       "hits": 19,
+       "total": 168,
+       "issues_with_hit": 16
+      },
+      "special_hit": {
+       "hit_rate": 0.0357,
+       "hits": 1,
+       "issues": 28
+      },
+      "zodiac_hit": {
+       "hit_rate": 0.3571,
+       "hits": 10,
+       "issues": 28
+      },
+      "top10_hit": {
+       "hit_rate": 0.2143,
+       "hits": 6,
+       "issues": 28
+      },
+      "2of2": {
+       "hit_rate": 0.0107,
+       "hits": 6,
+       "groups": 560,
+       "issues_with_hit": 6
+      },
+      "3of3": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "groups": 560,
+       "issues_with_hit": 0
+      }
+     },
+     "backtest": {
+      "2of2": {
+       "issues": 925,
+       "total_groups": 18500,
+       "total_hits": 265,
+       "hit_rate": 0.0143,
+       "issues_with_hit": 231,
+       "best_hits": 4,
+       "best_issue": "2026124"
+      },
+      "3of3": {
+       "issues": 925,
+       "total_groups": 18500,
+       "total_hits": 20,
+       "hit_rate": 0.0011,
+       "issues_with_hit": 20,
+       "best_hits": 1,
+       "best_issue": "2024094"
+      }
+     }
+    },
+    "香港": {
+     "live_hits": {
+      "closed_issues": 10,
+      "2of2": {
+       "20": {
+        "hit_rate": 0.005,
+        "hits": 1,
+        "groups": 200,
+        "issues_with_hit": 1
+       },
+       "40": {
+        "hit_rate": 0.0281,
+        "hits": 9,
+        "groups": 320,
+        "issues_with_hit": 6
+       },
+       "60": {
+        "hit_rate": 0.0146,
+        "hits": 7,
+        "groups": 480,
+        "issues_with_hit": 4
+       }
+      },
+      "3of3": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "groups": 200,
+       "issues_with_hit": 0
+      },
+      "3of2": {
+       "hit_rate": 0.03,
+       "hits": 6,
+       "groups": 200,
+       "issues_with_hit": 5
+      },
+      "special_hit": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "issues": 10
+      },
+      "zodiac": {
+       "1xiao": {
+        "hit_rate": 0.2,
+        "hits": 2,
+        "issues": 10
+       },
+       "2xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 10
+       },
+       "3xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 10
+       },
+       "4xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 10
+       },
+       "5xiao": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 10
+       }
+      },
+      "tail": {
+       "0wei": {
+        "hit_rate": 0.4,
+        "hits": 4,
+        "issues": 10
+       },
+       "1_9wei": {
+        "hit_rate": 0.4,
+        "hits": 4,
+        "issues": 10
+       },
+       "2wei": {
+        "hit_rate": 0.1,
+        "hits": 1,
+        "issues": 10
+       },
+       "3wei": {
+        "hit_rate": 0.1,
+        "hits": 1,
+        "issues": 10
+       },
+       "4wei": {
+        "hit_rate": 0.1,
+        "hits": 1,
+        "issues": 10
+       },
+       "5wei": {
+        "hit_rate": 0.1,
+        "hits": 1,
+        "issues": 10
+       }
+      },
+      "not_hit": {
+       "5": {
+        "hit_rate": 0.6,
+        "hits": 6,
+        "issues": 10
+       },
+       "6": {
+        "hit_rate": 0.4,
+        "hits": 4,
+        "issues": 10
+       },
+       "7": {
+        "hit_rate": 0.4,
+        "hits": 4,
+        "issues": 10
+       },
+       "8": {
+        "hit_rate": 0.1,
+        "hits": 1,
+        "issues": 10
+       },
+       "9": {
+        "hit_rate": 0.2,
+        "hits": 2,
+        "issues": 10
+       },
+       "10": {
+        "hit_rate": 0.0,
+        "hits": 0,
+        "issues": 10
+       }
+      }
+     },
+     "ai_live_hits": {
+      "closed_issues": 10,
+      "rebuilt": 3,
+      "main": {
+       "hit_rate": 0.05,
+       "avg_hit": 0.3,
+       "hits": 3,
+       "total": 60,
+       "issues_with_hit": 2
+      },
+      "special_hit": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "issues": 10
+      },
+      "zodiac_hit": {
+       "hit_rate": 0.1,
+       "hits": 1,
+       "issues": 10
+      },
+      "top10_hit": {
+       "hit_rate": 0.1,
+       "hits": 1,
+       "issues": 10
+      },
+      "2of2": {
+       "hit_rate": 0.015,
+       "hits": 3,
+       "groups": 200,
+       "issues_with_hit": 2
+      },
+      "3of3": {
+       "hit_rate": 0.0,
+       "hits": 0,
+       "groups": 200,
+       "issues_with_hit": 0
+      }
+     },
+     "backtest": {
+      "2of2": {
+       "issues": 317,
+       "total_groups": 6340,
+       "total_hits": 78,
+       "hit_rate": 0.0123,
+       "issues_with_hit": 67,
+       "best_hits": 2,
+       "best_issue": "2024047"
+      },
+      "3of3": {
+       "issues": 317,
+       "total_groups": 6340,
+       "total_hits": 4,
+       "hit_rate": 0.0006,
+       "issues_with_hit": 4,
+       "best_hits": 1,
+       "best_issue": "2025017"
+      }
+     }
+    }
+   }
   }
  ]
 }
