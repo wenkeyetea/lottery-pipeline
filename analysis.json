@@ -206205,13 +206205,13 @@
   "澳门": {
    "meta": {
     "source": "澳门",
-    "total_draws": 1005,
+    "total_draws": 1006,
     "first_issue": "2023001",
-    "last_issue": "2026293",
-    "total_slots": 7035,
-    "expected_per_number": 143.57,
-    "expected_main_per_number": 123.06,
-    "expected_special_per_number": 20.51,
+    "last_issue": "2026294",
+    "total_slots": 7042,
+    "expected_per_number": 143.71,
+    "expected_main_per_number": 123.18,
+    "expected_special_per_number": 20.53,
     "generated_at": ""
    },
    "numbers": [
@@ -206222,20 +206222,20 @@
      "freq_main": 120,
      "freq_special": 26,
      "freq_total": 146,
-     "z_score": 0.205,
-     "last_seen": 7,
-     "last_special_seen": 37
+     "z_score": 0.193,
+     "last_seen": 8,
+     "last_special_seen": 38
     },
     {
      "num": 2,
      "zodiac": "蛇",
      "element": "火",
-     "freq_main": 116,
+     "freq_main": 117,
      "freq_special": 24,
-     "freq_total": 140,
-     "z_score": -0.301,
-     "last_seen": 2,
-     "last_special_seen": 15
+     "freq_total": 141,
+     "z_score": -0.229,
+     "last_seen": 0,
+     "last_special_seen": 16
     },
     {
      "num": 3,
@@ -206244,9 +206244,9 @@
      "freq_main": 129,
      "freq_special": 20,
      "freq_total": 149,
-     "z_score": 0.458,
-     "last_seen": 9,
-     "last_special_seen": 88
+     "z_score": 0.445,
+     "last_seen": 10,
+     "last_special_seen": 89
     },
     {
      "num": 4,
@@ -206255,9 +206255,9 @@
      "freq_main": 101,
      "freq_special": 21,
      "freq_total": 122,
-     "z_score": -1.819,
-     "last_seen": 1,
-     "last_special_seen": 79
+     "z_score": -1.83,
+     "last_seen": 2,
+     "last_special_seen": 80
     },
     {
      "num": 5,
@@ -206266,9 +206266,9 @@
      "freq_main": 136,
      "freq_special": 23,
      "freq_total": 159,
-     "z_score": 1.301,
-     "last_seen": 0,
-     "last_special_seen": 0
+     "z_score": 1.288,
+     "last_seen": 1,
+     "last_special_seen": 1
     },
     {
      "num": 6,
@@ -206277,9 +206277,9 @@
      "freq_main": 125,
      "freq_special": 24,
      "freq_total": 149,
-     "z_score": 0.458,
-     "last_seen": 6,
-     "last_special_seen": 81
+     "z_score": 0.445,
+     "last_seen": 7,
+     "last_special_seen": 82
     },
     {
      "num": 7,
@@ -206288,9 +206288,9 @@
      "freq_main": 123,
      "freq_special": 15,
      "freq_total": 138,
-     "z_score": -0.47,
-     "last_seen": 3,
-     "last_special_seen": 36
+     "z_score": -0.482,
+     "last_seen": 4,
+     "last_special_seen": 37
     },
     {
      "num": 8,
@@ -206299,9 +206299,9 @@
      "freq_main": 116,
      "freq_special": 16,
      "freq_total": 132,
-     "z_score": -0.976,
-     "last_seen": 3,
-     "last_special_seen": 6
+     "z_score": -0.987,
+     "last_seen": 4,
+     "last_special_seen": 7
     },
     {
      "num": 9,
@@ -206310,20 +206310,20 @@
      "freq_main": 118,
      "freq_special": 23,
      "freq_total": 141,
-     "z_score": -0.217,
-     "last_seen": 0,
-     "last_special_seen": 30
+     "z_score": -0.229,
+     "last_seen": 1,
+     "last_special_seen": 31
     },
     {
      "num": 10,
      "zodiac": "鸡",
      "element": "火",
-     "freq_main": 145,
+     "freq_main": 146,
      "freq_special": 24,
-     "freq_total": 169,
-     "z_score": 2.144,
+     "freq_total": 170,
+     "z_score": 2.215,
      "last_seen": 0,
-     "last_special_seen": 12
+     "last_special_seen": 13
     },
     {
      "num": 11,
@@ -206332,9 +206332,9 @@
      "freq_main": 132,
      "freq_special": 19,
      "freq_total": 151,
-     "z_score": 0.626,
-     "last_seen": 16,
-     "last_special_seen": 16
+     "z_score": 0.614,
+     "last_seen": 17,
+     "last_special_seen": 17
     },
     {
      "num": 12,
@@ -206343,9 +206343,9 @@
      "freq_main": 121,
      "freq_special": 15,
      "freq_total": 136,
-     "z_score": -0.638,
-     "last_seen": 4,
-     "last_special_seen": 56
+     "z_score": -0.65,
+     "last_seen": 5,
+     "last_special_seen": 57
     },
     {
      "num": 13,
@@ -206354,9 +206354,9 @@
      "freq_main": 116,
      "freq_special": 15,
      "freq_total": 131,
-     "z_score": -1.06,
-     "last_seen": 0,
-     "last_special_seen": 146
+     "z_score": -1.072,
+     "last_seen": 1,
+     "last_special_seen": 147
     },
     {
      "num": 14,
@@ -206365,9 +206365,9 @@
      "freq_main": 89,
      "freq_special": 23,
      "freq_total": 112,
-     "z_score": -2.662,
-     "last_seen": 5,
-     "last_special_seen": 17
+     "z_score": -2.673,
+     "last_seen": 6,
+     "last_special_seen": 18
     },
     {
      "num": 15,
@@ -206376,9 +206376,9 @@
      "freq_main": 145,
      "freq_special": 20,
      "freq_total": 165,
-     "z_score": 1.807,
-     "last_seen": 3,
-     "last_special_seen": 13
+     "z_score": 1.794,
+     "last_seen": 4,
+     "last_special_seen": 14
     },
     {
      "num": 16,
@@ -206387,9 +206387,9 @@
      "freq_main": 110,
      "freq_special": 27,
      "freq_total": 137,
-     "z_score": -0.554,
-     "last_seen": 1,
-     "last_special_seen": 40
+     "z_score": -0.566,
+     "last_seen": 2,
+     "last_special_seen": 41
     },
     {
      "num": 17,
@@ -206398,9 +206398,9 @@
      "freq_main": 133,
      "freq_special": 23,
      "freq_total": 156,
-     "z_score": 1.048,
-     "last_seen": 2,
-     "last_special_seen": 2
+     "z_score": 1.035,
+     "last_seen": 3,
+     "last_special_seen": 3
     },
     {
      "num": 18,
@@ -206409,9 +206409,9 @@
      "freq_main": 114,
      "freq_special": 19,
      "freq_total": 133,
-     "z_score": -0.891,
-     "last_seen": 1,
-     "last_special_seen": 10
+     "z_score": -0.903,
+     "last_seen": 2,
+     "last_special_seen": 11
     },
     {
      "num": 19,
@@ -206420,9 +206420,9 @@
      "freq_main": 145,
      "freq_special": 19,
      "freq_total": 164,
-     "z_score": 1.723,
-     "last_seen": 4,
-     "last_special_seen": 8
+     "z_score": 1.71,
+     "last_seen": 5,
+     "last_special_seen": 9
     },
     {
      "num": 20,
@@ -206431,9 +206431,9 @@
      "freq_main": 118,
      "freq_special": 23,
      "freq_total": 141,
-     "z_score": -0.217,
-     "last_seen": 8,
-     "last_special_seen": 33
+     "z_score": -0.229,
+     "last_seen": 9,
+     "last_special_seen": 34
     },
     {
      "num": 21,
@@ -206442,9 +206442,9 @@
      "freq_main": 106,
      "freq_special": 18,
      "freq_total": 124,
-     "z_score": -1.65,
-     "last_seen": 5,
-     "last_special_seen": 29
+     "z_score": -1.662,
+     "last_seen": 6,
+     "last_special_seen": 30
     },
     {
      "num": 22,
@@ -206453,9 +206453,9 @@
      "freq_main": 133,
      "freq_special": 21,
      "freq_total": 154,
-     "z_score": 0.879,
-     "last_seen": 2,
-     "last_special_seen": 24
+     "z_score": 0.867,
+     "last_seen": 3,
+     "last_special_seen": 25
     },
     {
      "num": 23,
@@ -206464,9 +206464,9 @@
      "freq_main": 127,
      "freq_special": 27,
      "freq_total": 154,
-     "z_score": 0.879,
-     "last_seen": 1,
-     "last_special_seen": 11
+     "z_score": 0.867,
+     "last_seen": 2,
+     "last_special_seen": 12
     },
     {
      "num": 24,
@@ -206475,9 +206475,9 @@
      "freq_main": 132,
      "freq_special": 27,
      "freq_total": 159,
-     "z_score": 1.301,
-     "last_seen": 7,
-     "last_special_seen": 7
+     "z_score": 1.288,
+     "last_seen": 8,
+     "last_special_seen": 8
     },
     {
      "num": 25,
@@ -206486,9 +206486,9 @@
      "freq_main": 136,
      "freq_special": 19,
      "freq_total": 155,
-     "z_score": 0.964,
-     "last_seen": 5,
-     "last_special_seen": 5
+     "z_score": 0.951,
+     "last_seen": 6,
+     "last_special_seen": 6
     },
     {
      "num": 26,
@@ -206497,42 +206497,42 @@
      "freq_main": 125,
      "freq_special": 17,
      "freq_total": 142,
-     "z_score": -0.133,
-     "last_seen": 13,
-     "last_special_seen": 71
+     "z_score": -0.144,
+     "last_seen": 14,
+     "last_special_seen": 72
     },
     {
      "num": 27,
      "zodiac": "龙",
      "element": "金",
-     "freq_main": 114,
+     "freq_main": 115,
      "freq_special": 20,
-     "freq_total": 134,
-     "z_score": -0.807,
-     "last_seen": 36,
-     "last_special_seen": 53
+     "freq_total": 135,
+     "z_score": -0.734,
+     "last_seen": 0,
+     "last_special_seen": 54
     },
     {
      "num": 28,
      "zodiac": "兔",
      "element": "土",
      "freq_main": 115,
-     "freq_special": 19,
-     "freq_total": 134,
-     "z_score": -0.807,
-     "last_seen": 4,
-     "last_special_seen": 122
+     "freq_special": 20,
+     "freq_total": 135,
+     "z_score": -0.734,
+     "last_seen": 0,
+     "last_special_seen": 0
     },
     {
      "num": 29,
      "zodiac": "虎",
      "element": "土",
-     "freq_main": 140,
+     "freq_main": 141,
      "freq_special": 18,
-     "freq_total": 158,
-     "z_score": 1.217,
-     "last_seen": 4,
-     "last_special_seen": 102
+     "freq_total": 159,
+     "z_score": 1.288,
+     "last_seen": 0,
+     "last_special_seen": 103
     },
     {
      "num": 30,
@@ -206541,9 +206541,9 @@
      "freq_main": 131,
      "freq_special": 25,
      "freq_total": 156,
-     "z_score": 1.048,
-     "last_seen": 20,
-     "last_special_seen": 31
+     "z_score": 1.035,
+     "last_seen": 21,
+     "last_special_seen": 32
     },
     {
      "num": 31,
@@ -206552,9 +206552,9 @@
      "freq_main": 127,
      "freq_special": 17,
      "freq_total": 144,
-     "z_score": 0.036,
-     "last_seen": 16,
-     "last_special_seen": 86
+     "z_score": 0.024,
+     "last_seen": 17,
+     "last_special_seen": 87
     },
     {
      "num": 32,
@@ -206563,9 +206563,9 @@
      "freq_main": 114,
      "freq_special": 17,
      "freq_total": 131,
-     "z_score": -1.06,
-     "last_seen": 2,
-     "last_special_seen": 9
+     "z_score": -1.072,
+     "last_seen": 3,
+     "last_special_seen": 10
     },
     {
      "num": 33,
@@ -206574,20 +206574,20 @@
      "freq_main": 113,
      "freq_special": 16,
      "freq_total": 129,
-     "z_score": -1.229,
-     "last_seen": 19,
-     "last_special_seen": 19
+     "z_score": -1.24,
+     "last_seen": 20,
+     "last_special_seen": 20
     },
     {
      "num": 34,
      "zodiac": "鸡",
      "element": "金",
-     "freq_main": 119,
+     "freq_main": 120,
      "freq_special": 12,
-     "freq_total": 131,
-     "z_score": -1.06,
-     "last_seen": 4,
-     "last_special_seen": 220
+     "freq_total": 132,
+     "z_score": -0.987,
+     "last_seen": 0,
+     "last_special_seen": 221
     },
     {
      "num": 35,
@@ -206596,9 +206596,9 @@
      "freq_main": 119,
      "freq_special": 17,
      "freq_total": 136,
-     "z_score": -0.638,
-     "last_seen": 6,
-     "last_special_seen": 22
+     "z_score": -0.65,
+     "last_seen": 7,
+     "last_special_seen": 23
     },
     {
      "num": 36,
@@ -206607,9 +206607,9 @@
      "freq_main": 116,
      "freq_special": 15,
      "freq_total": 131,
-     "z_score": -1.06,
-     "last_seen": 1,
-     "last_special_seen": 1
+     "z_score": -1.072,
+     "last_seen": 2,
+     "last_special_seen": 2
     },
     {
      "num": 37,
@@ -206618,9 +206618,9 @@
      "freq_main": 117,
      "freq_special": 18,
      "freq_total": 135,
-     "z_score": -0.723,
-     "last_seen": 7,
-     "last_special_seen": 77
+     "z_score": -0.734,
+     "last_seen": 8,
+     "last_special_seen": 78
     },
     {
      "num": 38,
@@ -206629,9 +206629,9 @@
      "freq_main": 139,
      "freq_special": 19,
      "freq_total": 158,
-     "z_score": 1.217,
-     "last_seen": 0,
-     "last_special_seen": 4
+     "z_score": 1.204,
+     "last_seen": 1,
+     "last_special_seen": 5
     },
     {
      "num": 39,
@@ -206640,9 +206640,9 @@
      "freq_main": 117,
      "freq_special": 22,
      "freq_total": 139,
-     "z_score": -0.385,
-     "last_seen": 1,
-     "last_special_seen": 59
+     "z_score": -0.397,
+     "last_seen": 2,
+     "last_special_seen": 60
     },
     {
      "num": 40,
@@ -206651,9 +206651,9 @@
      "freq_main": 139,
      "freq_special": 27,
      "freq_total": 166,
-     "z_score": 1.891,
-     "last_seen": 3,
-     "last_special_seen": 3
+     "z_score": 1.878,
+     "last_seen": 4,
+     "last_special_seen": 4
     },
     {
      "num": 41,
@@ -206662,9 +206662,9 @@
      "freq_main": 107,
      "freq_special": 23,
      "freq_total": 130,
-     "z_score": -1.144,
-     "last_seen": 2,
-     "last_special_seen": 111
+     "z_score": -1.156,
+     "last_seen": 3,
+     "last_special_seen": 112
     },
     {
      "num": 42,
@@ -206673,20 +206673,20 @@
      "freq_main": 125,
      "freq_special": 19,
      "freq_total": 144,
-     "z_score": 0.036,
-     "last_seen": 18,
-     "last_special_seen": 61
+     "z_score": 0.024,
+     "last_seen": 19,
+     "last_special_seen": 62
     },
     {
      "num": 43,
      "zodiac": "鼠",
      "element": "金",
-     "freq_main": 127,
+     "freq_main": 128,
      "freq_special": 21,
-     "freq_total": 148,
-     "z_score": 0.373,
-     "last_seen": 8,
-     "last_special_seen": 74
+     "freq_total": 149,
+     "z_score": 0.445,
+     "last_seen": 0,
+     "last_special_seen": 75
     },
     {
      "num": 44,
@@ -206695,9 +206695,9 @@
      "freq_main": 135,
      "freq_special": 25,
      "freq_total": 160,
-     "z_score": 1.385,
-     "last_seen": 11,
-     "last_special_seen": 38
+     "z_score": 1.373,
+     "last_seen": 12,
+     "last_special_seen": 39
     },
     {
      "num": 45,
@@ -206706,9 +206706,9 @@
      "freq_main": 130,
      "freq_special": 21,
      "freq_total": 151,
-     "z_score": 0.626,
-     "last_seen": 8,
-     "last_special_seen": 141
+     "z_score": 0.614,
+     "last_seen": 9,
+     "last_special_seen": 142
     },
     {
      "num": 46,
@@ -206717,9 +206717,9 @@
      "freq_main": 136,
      "freq_special": 25,
      "freq_total": 161,
-     "z_score": 1.47,
-     "last_seen": 5,
-     "last_special_seen": 35
+     "z_score": 1.457,
+     "last_seen": 6,
+     "last_special_seen": 36
     },
     {
      "num": 47,
@@ -206728,9 +206728,9 @@
      "freq_main": 105,
      "freq_special": 18,
      "freq_total": 123,
-     "z_score": -1.735,
-     "last_seen": 4,
-     "last_special_seen": 87
+     "z_score": -1.746,
+     "last_seen": 5,
+     "last_special_seen": 88
     },
     {
      "num": 48,
@@ -206739,9 +206739,9 @@
      "freq_main": 111,
      "freq_special": 19,
      "freq_total": 130,
-     "z_score": -1.144,
-     "last_seen": 0,
-     "last_special_seen": 73
+     "z_score": -1.156,
+     "last_seen": 1,
+     "last_special_seen": 74
     },
     {
      "num": 49,
@@ -206750,9 +206750,9 @@
      "freq_main": 123,
      "freq_special": 24,
      "freq_total": 147,
-     "z_score": 0.289,
-     "last_seen": 0,
-     "last_special_seen": 28
+     "z_score": 0.277,
+     "last_seen": 1,
+     "last_special_seen": 29
     }
    ],
    "zodiac": {
@@ -206771,16 +206771,16 @@
      "猪"
     ],
     "freq": [
-     594,
+     595,
      582,
-     603,
-     559,
-     587,
-     552,
+     604,
+     560,
+     588,
+     553,
      714,
      556,
      564,
-     615,
+     617,
      545,
      564
     ],
@@ -206788,7 +206788,7 @@
      72,
      87,
      87,
-     94,
+     95,
      82,
      83,
      102,
@@ -206802,744 +206802,744 @@
    "zodiac_warning": {
     "main": [
      {
-      "zodiac": "鼠",
-      "current": 3,
-      "max": 12,
-      "last_issue": "2026290"
-     },
-     {
-      "zodiac": "虎",
-      "current": 2,
-      "max": 11,
-      "last_issue": "2026291"
-     },
-     {
       "zodiac": "猪",
-      "current": 2,
+      "current": 3,
       "max": 24,
       "last_issue": "2026291"
      },
      {
       "zodiac": "牛",
-      "current": 1,
+      "current": 2,
       "max": 15,
       "last_issue": "2026292"
      },
      {
       "zodiac": "兔",
-      "current": 1,
+      "current": 2,
       "max": 15,
-      "last_issue": "2026292"
-     },
-     {
-      "zodiac": "龙",
-      "current": 1,
-      "max": 11,
       "last_issue": "2026292"
      },
      {
       "zodiac": "猴",
-      "current": 1,
+      "current": 2,
       "max": 13,
       "last_issue": "2026292"
      },
      {
-      "zodiac": "蛇",
-      "current": 0,
-      "max": 15,
-      "last_issue": "2026293"
-     },
-     {
       "zodiac": "马",
-      "current": 0,
+      "current": 1,
       "max": 13,
       "last_issue": "2026293"
      },
      {
       "zodiac": "羊",
-      "current": 0,
+      "current": 1,
       "max": 11,
       "last_issue": "2026293"
+     },
+     {
+      "zodiac": "狗",
+      "current": 1,
+      "max": 14,
+      "last_issue": "2026293"
+     },
+     {
+      "zodiac": "鼠",
+      "current": 0,
+      "max": 12,
+      "last_issue": "2026294"
+     },
+     {
+      "zodiac": "虎",
+      "current": 0,
+      "max": 11,
+      "last_issue": "2026294"
+     },
+     {
+      "zodiac": "龙",
+      "current": 0,
+      "max": 11,
+      "last_issue": "2026294"
+     },
+     {
+      "zodiac": "蛇",
+      "current": 0,
+      "max": 15,
+      "last_issue": "2026294"
      },
      {
       "zodiac": "鸡",
       "current": 0,
       "max": 12,
-      "last_issue": "2026293"
-     },
-     {
-      "zodiac": "狗",
-      "current": 0,
-      "max": 14,
-      "last_issue": "2026293"
+      "last_issue": "2026294"
      }
     ],
     "special": [
      {
       "zodiac": "狗",
-      "current": 19,
+      "current": 20,
       "max": 64,
       "last_issue": "2026274"
      },
      {
       "zodiac": "龙",
-      "current": 13,
+      "current": 14,
       "max": 70,
       "last_issue": "2026280"
      },
      {
       "zodiac": "鸡",
-      "current": 12,
+      "current": 13,
       "max": 67,
       "last_issue": "2026281"
      },
      {
       "zodiac": "猴",
-      "current": 11,
+      "current": 12,
       "max": 55,
       "last_issue": "2026282"
      },
      {
       "zodiac": "牛",
-      "current": 10,
+      "current": 11,
       "max": 49,
       "last_issue": "2026283"
      },
      {
       "zodiac": "鼠",
-      "current": 8,
+      "current": 9,
       "max": 55,
       "last_issue": "2026285"
      },
      {
       "zodiac": "猪",
-      "current": 6,
+      "current": 7,
       "max": 64,
       "last_issue": "2026287"
      },
      {
       "zodiac": "马",
-      "current": 5,
+      "current": 6,
       "max": 51,
       "last_issue": "2026288"
      },
      {
       "zodiac": "蛇",
-      "current": 4,
+      "current": 5,
       "max": 66,
       "last_issue": "2026289"
      },
      {
-      "zodiac": "兔",
-      "current": 3,
-      "max": 39,
-      "last_issue": "2026290"
-     },
-     {
       "zodiac": "羊",
-      "current": 1,
+      "current": 2,
       "max": 60,
       "last_issue": "2026292"
      },
      {
       "zodiac": "虎",
-      "current": 0,
+      "current": 1,
       "max": 68,
       "last_issue": "2026293"
+     },
+     {
+      "zodiac": "兔",
+      "current": 0,
+      "max": 39,
+      "last_issue": "2026294"
      }
     ]
    },
    "number_warning": {
     "main": [
      {
-      "num": 27,
-      "current": 36,
-      "max": 41,
-      "last_issue": "2026257"
-     },
-     {
       "num": 33,
-      "current": 31,
+      "current": 32,
       "max": 57,
       "last_issue": "2026262"
      },
      {
       "num": 25,
-      "current": 20,
+      "current": 21,
       "max": 33,
       "last_issue": "2026273"
      },
      {
       "num": 30,
-      "current": 20,
+      "current": 21,
       "max": 47,
       "last_issue": "2026273"
      },
      {
       "num": 36,
-      "current": 19,
+      "current": 20,
       "max": 31,
       "last_issue": "2026274"
      },
      {
       "num": 42,
-      "current": 18,
+      "current": 19,
       "max": 43,
       "last_issue": "2026275"
      },
      {
       "num": 11,
-      "current": 17,
+      "current": 18,
       "max": 50,
       "last_issue": "2026276"
      },
      {
       "num": 31,
-      "current": 16,
+      "current": 17,
       "max": 37,
       "last_issue": "2026277"
      },
      {
       "num": 24,
-      "current": 15,
+      "current": 16,
       "max": 35,
       "last_issue": "2026278"
      },
      {
       "num": 26,
-      "current": 13,
+      "current": 14,
       "max": 27,
       "last_issue": "2026280"
      },
      {
       "num": 44,
-      "current": 11,
+      "current": 12,
       "max": 50,
       "last_issue": "2026282"
      },
      {
       "num": 3,
-      "current": 9,
+      "current": 10,
       "max": 40,
       "last_issue": "2026284"
      },
      {
       "num": 20,
-      "current": 8,
+      "current": 9,
       "max": 42,
       "last_issue": "2026285"
      },
      {
       "num": 40,
-      "current": 8,
+      "current": 9,
       "max": 42,
       "last_issue": "2026285"
      },
      {
-      "num": 43,
-      "current": 8,
-      "max": 30,
-      "last_issue": "2026285"
-     },
-     {
       "num": 45,
-      "current": 8,
+      "current": 9,
       "max": 34,
       "last_issue": "2026285"
      },
      {
       "num": 1,
-      "current": 7,
+      "current": 8,
       "max": 43,
       "last_issue": "2026286"
      },
      {
       "num": 37,
-      "current": 7,
+      "current": 8,
       "max": 51,
       "last_issue": "2026286"
      },
      {
       "num": 6,
-      "current": 6,
+      "current": 7,
       "max": 46,
       "last_issue": "2026287"
      },
      {
       "num": 35,
-      "current": 6,
+      "current": 7,
       "max": 45,
       "last_issue": "2026287"
      },
      {
       "num": 5,
-      "current": 5,
+      "current": 6,
       "max": 37,
       "last_issue": "2026288"
      },
      {
       "num": 14,
-      "current": 5,
+      "current": 6,
       "max": 46,
       "last_issue": "2026288"
      },
      {
       "num": 21,
-      "current": 5,
+      "current": 6,
       "max": 36,
       "last_issue": "2026288"
      },
      {
       "num": 46,
-      "current": 5,
+      "current": 6,
       "max": 48,
       "last_issue": "2026288"
      },
      {
       "num": 12,
-      "current": 4,
+      "current": 5,
       "max": 51,
       "last_issue": "2026289"
      },
      {
       "num": 19,
-      "current": 4,
+      "current": 5,
       "max": 31,
       "last_issue": "2026289"
      },
      {
       "num": 28,
-      "current": 4,
+      "current": 5,
       "max": 48,
       "last_issue": "2026289"
      },
      {
-      "num": 29,
-      "current": 4,
-      "max": 50,
-      "last_issue": "2026289"
-     },
-     {
-      "num": 34,
-      "current": 4,
-      "max": 40,
-      "last_issue": "2026289"
-     },
-     {
       "num": 47,
-      "current": 4,
+      "current": 5,
       "max": 49,
       "last_issue": "2026289"
      },
      {
       "num": 7,
-      "current": 3,
+      "current": 4,
       "max": 43,
       "last_issue": "2026290"
      },
      {
       "num": 8,
-      "current": 3,
+      "current": 4,
       "max": 50,
       "last_issue": "2026290"
      },
      {
       "num": 15,
-      "current": 3,
+      "current": 4,
       "max": 29,
       "last_issue": "2026290"
      },
      {
       "num": 17,
-      "current": 3,
+      "current": 4,
       "max": 30,
       "last_issue": "2026290"
      },
      {
-      "num": 2,
-      "current": 2,
-      "max": 44,
-      "last_issue": "2026291"
-     },
-     {
       "num": 22,
-      "current": 2,
+      "current": 3,
       "max": 29,
       "last_issue": "2026291"
      },
      {
       "num": 32,
-      "current": 2,
+      "current": 3,
       "max": 54,
       "last_issue": "2026291"
      },
      {
       "num": 41,
-      "current": 2,
+      "current": 3,
       "max": 48,
       "last_issue": "2026291"
      },
      {
       "num": 4,
-      "current": 1,
+      "current": 2,
       "max": 41,
       "last_issue": "2026292"
      },
      {
       "num": 16,
-      "current": 1,
+      "current": 2,
       "max": 30,
       "last_issue": "2026292"
      },
      {
       "num": 18,
-      "current": 1,
+      "current": 2,
       "max": 45,
       "last_issue": "2026292"
      },
      {
       "num": 23,
-      "current": 1,
+      "current": 2,
       "max": 31,
       "last_issue": "2026292"
      },
      {
       "num": 39,
-      "current": 1,
+      "current": 2,
       "max": 47,
       "last_issue": "2026292"
      },
      {
       "num": 9,
-      "current": 0,
+      "current": 1,
       "max": 45,
       "last_issue": "2026293"
      },
      {
-      "num": 10,
-      "current": 0,
-      "max": 26,
-      "last_issue": "2026293"
-     },
-     {
       "num": 13,
-      "current": 0,
+      "current": 1,
       "max": 46,
       "last_issue": "2026293"
      },
      {
       "num": 38,
-      "current": 0,
+      "current": 1,
       "max": 39,
       "last_issue": "2026293"
      },
      {
       "num": 48,
-      "current": 0,
+      "current": 1,
       "max": 43,
       "last_issue": "2026293"
      },
      {
       "num": 49,
-      "current": 0,
+      "current": 1,
       "max": 34,
       "last_issue": "2026293"
+     },
+     {
+      "num": 2,
+      "current": 0,
+      "max": 44,
+      "last_issue": "2026294"
+     },
+     {
+      "num": 10,
+      "current": 0,
+      "max": 26,
+      "last_issue": "2026294"
+     },
+     {
+      "num": 27,
+      "current": 0,
+      "max": 41,
+      "last_issue": "2026294"
+     },
+     {
+      "num": 29,
+      "current": 0,
+      "max": 50,
+      "last_issue": "2026294"
+     },
+     {
+      "num": 34,
+      "current": 0,
+      "max": 40,
+      "last_issue": "2026294"
+     },
+     {
+      "num": 43,
+      "current": 0,
+      "max": 30,
+      "last_issue": "2026294"
      }
     ],
     "special": [
      {
       "num": 34,
-      "current": 220,
-      "max": 220,
+      "current": 221,
+      "max": 221,
       "last_issue": "2026073"
      },
      {
       "num": 13,
-      "current": 146,
+      "current": 147,
       "max": 173,
       "last_issue": "2026147"
      },
      {
       "num": 45,
-      "current": 141,
-      "max": 141,
+      "current": 142,
+      "max": 142,
       "last_issue": "2026152"
      },
      {
-      "num": 28,
-      "current": 122,
-      "max": 225,
-      "last_issue": "2026171"
-     },
-     {
       "num": 41,
-      "current": 111,
+      "current": 112,
       "max": 130,
       "last_issue": "2026182"
      },
      {
       "num": 29,
-      "current": 102,
+      "current": 103,
       "max": 111,
       "last_issue": "2026191"
      },
      {
       "num": 3,
-      "current": 88,
+      "current": 89,
       "max": 144,
       "last_issue": "2026205"
      },
      {
       "num": 47,
-      "current": 87,
+      "current": 88,
       "max": 262,
       "last_issue": "2026206"
      },
      {
       "num": 31,
-      "current": 86,
+      "current": 87,
       "max": 133,
       "last_issue": "2026207"
      },
      {
       "num": 6,
-      "current": 81,
+      "current": 82,
       "max": 141,
       "last_issue": "2026212"
      },
      {
       "num": 4,
-      "current": 79,
+      "current": 80,
       "max": 179,
       "last_issue": "2026214"
      },
      {
       "num": 37,
-      "current": 77,
+      "current": 78,
       "max": 162,
       "last_issue": "2026216"
      },
      {
       "num": 43,
-      "current": 74,
+      "current": 75,
       "max": 149,
       "last_issue": "2026219"
      },
      {
       "num": 48,
-      "current": 73,
+      "current": 74,
       "max": 190,
       "last_issue": "2026220"
      },
      {
       "num": 26,
-      "current": 71,
+      "current": 72,
       "max": 302,
       "last_issue": "2026222"
      },
      {
       "num": 42,
-      "current": 61,
+      "current": 62,
       "max": 158,
       "last_issue": "2026232"
      },
      {
       "num": 39,
-      "current": 59,
+      "current": 60,
       "max": 136,
       "last_issue": "2026234"
      },
      {
       "num": 12,
-      "current": 56,
+      "current": 57,
       "max": 181,
       "last_issue": "2026237"
      },
      {
       "num": 27,
-      "current": 53,
+      "current": 54,
       "max": 115,
       "last_issue": "2026240"
      },
      {
       "num": 16,
-      "current": 40,
+      "current": 41,
       "max": 225,
       "last_issue": "2026253"
      },
      {
       "num": 44,
-      "current": 38,
+      "current": 39,
       "max": 102,
       "last_issue": "2026255"
      },
      {
       "num": 1,
-      "current": 37,
+      "current": 38,
       "max": 165,
       "last_issue": "2026256"
      },
      {
       "num": 7,
-      "current": 36,
+      "current": 37,
       "max": 188,
       "last_issue": "2026257"
      },
      {
       "num": 46,
-      "current": 35,
+      "current": 36,
       "max": 120,
       "last_issue": "2026258"
      },
      {
       "num": 20,
-      "current": 33,
+      "current": 34,
       "max": 128,
       "last_issue": "2026260"
      },
      {
       "num": 30,
-      "current": 31,
+      "current": 32,
       "max": 163,
       "last_issue": "2026262"
      },
      {
       "num": 9,
-      "current": 30,
+      "current": 31,
       "max": 241,
       "last_issue": "2026263"
      },
      {
       "num": 21,
-      "current": 29,
+      "current": 30,
       "max": 266,
       "last_issue": "2026264"
      },
      {
       "num": 49,
-      "current": 28,
+      "current": 29,
       "max": 171,
       "last_issue": "2026265"
      },
      {
       "num": 22,
-      "current": 24,
+      "current": 25,
       "max": 218,
       "last_issue": "2026269"
      },
      {
       "num": 35,
-      "current": 22,
+      "current": 23,
       "max": 160,
       "last_issue": "2026271"
      },
      {
       "num": 33,
-      "current": 19,
+      "current": 20,
       "max": 250,
       "last_issue": "2026274"
      },
      {
       "num": 14,
-      "current": 17,
+      "current": 18,
       "max": 121,
       "last_issue": "2026276"
      },
      {
       "num": 11,
-      "current": 16,
+      "current": 17,
       "max": 145,
       "last_issue": "2026277"
      },
      {
       "num": 2,
-      "current": 15,
+      "current": 16,
       "max": 129,
       "last_issue": "2026278"
      },
      {
       "num": 15,
-      "current": 13,
+      "current": 14,
       "max": 156,
       "last_issue": "2026280"
      },
      {
       "num": 10,
-      "current": 12,
+      "current": 13,
       "max": 154,
       "last_issue": "2026281"
      },
      {
       "num": 23,
-      "current": 11,
+      "current": 12,
       "max": 176,
       "last_issue": "2026282"
      },
      {
       "num": 18,
-      "current": 10,
+      "current": 11,
       "max": 128,
       "last_issue": "2026283"
      },
      {
       "num": 32,
-      "current": 9,
+      "current": 10,
       "max": 254,
       "last_issue": "2026284"
      },
      {
       "num": 19,
-      "current": 8,
+      "current": 9,
       "max": 263,
       "last_issue": "2026285"
      },
      {
       "num": 24,
-      "current": 7,
+      "current": 8,
       "max": 122,
       "last_issue": "2026286"
      },
      {
       "num": 8,
-      "current": 6,
+      "current": 7,
       "max": 245,
       "last_issue": "2026287"
      },
      {
       "num": 25,
-      "current": 5,
+      "current": 6,
       "max": 152,
       "last_issue": "2026288"
      },
      {
       "num": 38,
-      "current": 4,
+      "current": 5,
       "max": 176,
       "last_issue": "2026289"
      },
      {
       "num": 40,
-      "current": 3,
+      "current": 4,
       "max": 122,
       "last_issue": "2026290"
      },
      {
       "num": 17,
-      "current": 2,
+      "current": 3,
       "max": 162,
       "last_issue": "2026291"
      },
      {
       "num": 36,
-      "current": 1,
+      "current": 2,
       "max": 162,
       "last_issue": "2026292"
      },
      {
       "num": 5,
-      "current": 0,
+      "current": 1,
       "max": 109,
       "last_issue": "2026293"
+     },
+     {
+      "num": 28,
+      "current": 0,
+      "max": 225,
+      "last_issue": "2026294"
      }
     ]
    },
@@ -207549,31 +207549,31 @@
       "color": "红波",
       "current": 0,
       "max": 1,
-      "last_issue": "2026293"
+      "last_issue": "2026294"
      },
      {
       "color": "蓝波",
       "current": 0,
       "max": 2,
-      "last_issue": "2026293"
+      "last_issue": "2026294"
      },
      {
       "color": "绿波",
       "current": 0,
       "max": 2,
-      "last_issue": "2026293"
+      "last_issue": "2026294"
      }
     ],
     "special": [
      {
       "color": "红波",
-      "current": 3,
+      "current": 4,
       "max": 14,
       "last_issue": "2026290"
      },
      {
       "color": "蓝波",
-      "current": 1,
+      "current": 2,
       "max": 16,
       "last_issue": "2026292"
      },
@@ -207581,73 +207581,73 @@
       "color": "绿波",
       "current": 0,
       "max": 14,
-      "last_issue": "2026293"
+      "last_issue": "2026294"
      }
     ]
    },
    "element_warning": {
     "main": [
      {
-      "element": "土",
-      "current": 3,
-      "max": 6,
-      "last_issue": "2026290"
-     },
-     {
       "element": "水",
-      "current": 1,
+      "current": 2,
       "max": 5,
       "last_issue": "2026292"
+     },
+     {
+      "element": "木",
+      "current": 1,
+      "max": 5,
+      "last_issue": "2026293"
      },
      {
       "element": "金",
       "current": 0,
       "max": 7,
-      "last_issue": "2026293"
-     },
-     {
-      "element": "木",
-      "current": 0,
-      "max": 5,
-      "last_issue": "2026293"
+      "last_issue": "2026294"
      },
      {
       "element": "火",
       "current": 0,
       "max": 2,
-      "last_issue": "2026293"
+      "last_issue": "2026294"
+     },
+     {
+      "element": "土",
+      "current": 0,
+      "max": 6,
+      "last_issue": "2026294"
      }
     ],
     "special": [
      {
       "element": "水",
-      "current": 11,
+      "current": 12,
       "max": 35,
       "last_issue": "2026282"
      },
      {
       "element": "火",
-      "current": 3,
+      "current": 4,
       "max": 18,
       "last_issue": "2026290"
      },
      {
       "element": "木",
-      "current": 2,
+      "current": 3,
       "max": 17,
       "last_issue": "2026291"
      },
      {
-      "element": "土",
-      "current": 1,
-      "max": 31,
-      "last_issue": "2026292"
-     },
-     {
       "element": "金",
-      "current": 0,
+      "current": 1,
       "max": 30,
       "last_issue": "2026293"
+     },
+     {
+      "element": "土",
+      "current": 0,
+      "max": 31,
+      "last_issue": "2026294"
      }
     ]
    },
@@ -207660,28 +207660,28 @@
      "土"
     ],
     "freq": [
-     1383,
+     1386,
      1461,
      1342,
-     1739,
-     1110
+     1741,
+     1112
     ],
     "special": [
      180,
      219,
      205,
      251,
-     150
+     151
     ]
    },
    "parity": {
-    "odd": 3607,
-    "even": 3428
+    "odd": 3610,
+    "even": 3432
    },
    "ranges": [
     {
      "label": "01-10",
-     "freq": 1445
+     "freq": 1447
     },
     {
      "label": "11-20",
@@ -207689,22 +207689,22 @@
     },
     {
      "label": "21-30",
-     "freq": 1470
+     "freq": 1473
     },
     {
      "label": "31-40",
-     "freq": 1400
+     "freq": 1401
     },
     {
      "label": "41-49",
-     "freq": 1294
+     "freq": 1295
     }
    ],
    "chi_square": {
-    "chi2": 59.75,
+    "chi2": 59.85,
     "df": 48,
-    "expected_per_number": 143.57,
-    "approx_p_value": 0.1181,
+    "expected_per_number": 143.71,
+    "approx_p_value": 0.1162,
     "note": "p值越大越接近均匀随机; p<0.05 可认为存在显著偏离(通常源于抽样波动)"
    },
    "top_pairs": [
@@ -207714,7 +207714,7 @@
       17
      ],
      "count": 32,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207722,7 +207722,7 @@
       38
      ],
      "count": 31,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207730,7 +207730,7 @@
       17
      ],
      "count": 31,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207738,7 +207738,7 @@
       15
      ],
      "count": 31,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207746,7 +207746,7 @@
       10
      ],
      "count": 30,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207754,7 +207754,7 @@
       46
      ],
      "count": 30,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207762,7 +207762,7 @@
       9
      ],
      "count": 30,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207770,7 +207770,7 @@
       10
      ],
      "count": 30,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207778,7 +207778,7 @@
       42
      ],
      "count": 30,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207786,7 +207786,7 @@
       43
      ],
      "count": 30,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207794,7 +207794,7 @@
       40
      ],
      "count": 29,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207802,7 +207802,7 @@
       38
      ],
      "count": 29,
-     "expected": 17.9
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207810,7 +207810,15 @@
       45
      ],
      "count": 29,
-     "expected": 17.9
+     "expected": 18.0
+    },
+    {
+     "pair": [
+      29,
+      43
+     ],
+     "count": 29,
+     "expected": 18.0
     },
     {
      "pair": [
@@ -207818,15 +207826,7 @@
       40
      ],
      "count": 29,
-     "expected": 17.9
-    },
-    {
-     "pair": [
-      23,
-      44
-     ],
-     "count": 29,
-     "expected": 17.9
+     "expected": 18.0
     }
    ],
    "yearly": {
@@ -207906,7 +207906,7 @@
      ]
     },
     "2026": {
-     "draws": 246,
+     "draws": 247,
      "top": [
       [
        46,
@@ -207921,12 +207921,12 @@
        48
       ],
       [
-       1,
+       29,
        45
       ],
       [
-       29,
-       44
+       1,
+       45
       ]
      ]
     }
@@ -207936,229 +207936,229 @@
     "main_pool": [
      {
       "num": 6,
-      "score": 66.89,
+      "score": 70.66,
       "freq": 149,
       "recent": 15,
-      "last_seen": 6
+      "last_seen": 7
      },
      {
       "num": 22,
-      "score": 64.1,
+      "score": 65.84,
       "freq": 154,
       "recent": 14,
-      "last_seen": 2
-     },
-     {
-      "num": 40,
-      "score": 62.93,
-      "freq": 166,
-      "recent": 11,
       "last_seen": 3
      },
      {
+      "num": 40,
+      "score": 61.96,
+      "freq": 166,
+      "recent": 10,
+      "last_seen": 4
+     },
+     {
       "num": 19,
-      "score": 59.32,
+      "score": 61.95,
       "freq": 164,
       "recent": 10,
-      "last_seen": 4
-     },
-     {
-      "num": 10,
-      "score": 56.54,
-      "freq": 169,
-      "recent": 9,
-      "last_seen": 0
-     },
-     {
-      "num": 29,
-      "score": 55.64,
-      "freq": 158,
-      "recent": 10,
-      "last_seen": 4
-     },
-     {
-      "num": 46,
-      "score": 55.1,
-      "freq": 161,
-      "recent": 9,
       "last_seen": 5
      },
      {
-      "num": 5,
-      "score": 53.48,
-      "freq": 159,
-      "recent": 10,
-      "last_seen": 0
-     },
-     {
-      "num": 17,
-      "score": 53.02,
+      "num": 30,
+      "score": 60.78,
       "freq": 156,
-      "recent": 10,
-      "last_seen": 2
+      "recent": 5,
+      "last_seen": 21
      },
      {
-      "num": 38,
-      "score": 52.86,
-      "freq": 158,
+      "num": 10,
+      "score": 59.62,
+      "freq": 170,
       "recent": 10,
       "last_seen": 0
      },
      {
       "num": 44,
-      "score": 52.5,
+      "score": 58.64,
       "freq": 160,
       "recent": 7,
-      "last_seen": 11
+      "last_seen": 12
      },
      {
       "num": 24,
-      "score": 52.18,
+      "score": 56.35,
       "freq": 159,
-      "recent": 8,
-      "last_seen": 7
-     },
-     {
-      "num": 3,
-      "score": 50.51,
-      "freq": 149,
-      "recent": 9,
-      "last_seen": 9
-     },
-     {
-      "num": 30,
-      "score": 50.14,
-      "freq": 156,
-      "recent": 5,
-      "last_seen": 20
-     },
-     {
-      "num": 15,
-      "score": 46.93,
-      "freq": 165,
-      "recent": 6,
-      "last_seen": 3
-     },
-     {
-      "num": 43,
-      "score": 46.12,
-      "freq": 148,
       "recent": 8,
       "last_seen": 8
      },
      {
-      "num": 25,
-      "score": 45.26,
-      "freq": 155,
-      "recent": 7,
-      "last_seen": 5
+      "num": 29,
+      "score": 56.05,
+      "freq": 159,
+      "recent": 11,
+      "last_seen": 0
+     },
+     {
+      "num": 46,
+      "score": 55.17,
+      "freq": 161,
+      "recent": 8,
+      "last_seen": 6
+     },
+     {
+      "num": 5,
+      "score": 54.17,
+      "freq": 159,
+      "recent": 10,
+      "last_seen": 1
+     },
+     {
+      "num": 38,
+      "score": 53.56,
+      "freq": 158,
+      "recent": 10,
+      "last_seen": 1
      },
      {
       "num": 11,
-      "score": 44.29,
+      "score": 53.0,
       "freq": 151,
       "recent": 5,
-      "last_seen": 16
+      "last_seen": 17
+     },
+     {
+      "num": 3,
+      "score": 52.69,
+      "freq": 149,
+      "recent": 8,
+      "last_seen": 10
+     },
+     {
+      "num": 17,
+      "score": 51.66,
+      "freq": 156,
+      "recent": 9,
+      "last_seen": 3
      },
      {
       "num": 26,
-      "score": 42.83,
+      "score": 50.15,
       "freq": 142,
       "recent": 7,
-      "last_seen": 13
+      "last_seen": 14
      },
      {
-      "num": 23,
-      "score": 41.87,
-      "freq": 154,
+      "num": 15,
+      "score": 49.05,
+      "freq": 165,
+      "recent": 6,
+      "last_seen": 4
+     },
+     {
+      "num": 25,
+      "score": 48.48,
+      "freq": 155,
       "recent": 7,
-      "last_seen": 1
+      "last_seen": 6
+     },
+     {
+      "num": 20,
+      "score": 46.68,
+      "freq": 141,
+      "recent": 8,
+      "last_seen": 9
+     },
+     {
+      "num": 43,
+      "score": 43.87,
+      "freq": 149,
+      "recent": 9,
+      "last_seen": 0
      }
     ],
     "special_candidates": [
      {
       "num": 40,
-      "score": 75.34,
+      "score": 75.45,
       "freq_sp": 27,
       "recent_sp": 4,
-      "last_seen_sp": 3
+      "last_seen_sp": 4
      },
      {
       "num": 30,
-      "score": 63.86,
+      "score": 63.95,
       "freq_sp": 25,
       "recent_sp": 3,
-      "last_seen_sp": 31
+      "last_seen_sp": 32
      },
      {
       "num": 2,
-      "score": 59.7,
+      "score": 59.81,
       "freq_sp": 24,
       "recent_sp": 3,
-      "last_seen_sp": 15
+      "last_seen_sp": 16
      },
      {
       "num": 23,
-      "score": 56.25,
+      "score": 56.36,
       "freq_sp": 27,
-      "recent_sp": 2,
-      "last_seen_sp": 11
-     },
-     {
-      "num": 24,
-      "score": 55.8,
-      "freq_sp": 27,
-      "recent_sp": 2,
-      "last_seen_sp": 7
-     },
-     {
-      "num": 46,
-      "score": 54.31,
-      "freq_sp": 25,
-      "recent_sp": 2,
-      "last_seen_sp": 35
-     },
-     {
-      "num": 22,
-      "score": 53.73,
-      "freq_sp": 21,
-      "recent_sp": 3,
-      "last_seen_sp": 24
-     },
-     {
-      "num": 16,
-      "score": 49.55,
-      "freq_sp": 27,
-      "recent_sp": 1,
-      "last_seen_sp": 40
-     },
-     {
-      "num": 20,
-      "score": 49.42,
-      "freq_sp": 23,
-      "recent_sp": 2,
-      "last_seen_sp": 33
-     },
-     {
-      "num": 10,
-      "score": 49.36,
-      "freq_sp": 24,
       "recent_sp": 2,
       "last_seen_sp": 12
      },
      {
-      "num": 14,
-      "score": 47.6,
+      "num": 24,
+      "score": 55.9,
+      "freq_sp": 27,
+      "recent_sp": 2,
+      "last_seen_sp": 8
+     },
+     {
+      "num": 22,
+      "score": 53.83,
+      "freq_sp": 21,
+      "recent_sp": 3,
+      "last_seen_sp": 25
+     },
+     {
+      "num": 16,
+      "score": 49.64,
+      "freq_sp": 27,
+      "recent_sp": 1,
+      "last_seen_sp": 41
+     },
+     {
+      "num": 20,
+      "score": 49.51,
       "freq_sp": 23,
       "recent_sp": 2,
-      "last_seen_sp": 17
+      "last_seen_sp": 34
+     },
+     {
+      "num": 10,
+      "score": 49.47,
+      "freq_sp": 24,
+      "recent_sp": 2,
+      "last_seen_sp": 13
+     },
+     {
+      "num": 14,
+      "score": 47.7,
+      "freq_sp": 23,
+      "recent_sp": 2,
+      "last_seen_sp": 18
      },
      {
       "num": 1,
-      "score": 46.87,
+      "score": 46.97,
       "freq_sp": 26,
       "recent_sp": 1,
-      "last_seen_sp": 37
+      "last_seen_sp": 38
+     },
+     {
+      "num": 17,
+      "score": 46.01,
+      "freq_sp": 23,
+      "recent_sp": 2,
+      "last_seen_sp": 3
      }
     ]
    },
@@ -221227,6 +221227,19 @@
       9
      ],
      5
+    ],
+    [
+     2026,
+     "2026294",
+     [
+      29,
+      43,
+      10,
+      2,
+      34,
+      27
+     ],
+     28
     ]
    ],
    "hit_records": {
@@ -221234,8 +221247,8 @@
     "detail_issues": 1000000000,
     "summary": {
      "2of2": {
-      "issues": 955,
-      "total_groups": 19100,
+      "issues": 956,
+      "total_groups": 19120,
       "total_hits": 275,
       "hit_rate": 0.0144,
       "issues_with_hit": 238,
@@ -221243,8 +221256,8 @@
       "best_issue": "2026124"
      },
      "3of3": {
-      "issues": 955,
-      "total_groups": 19100,
+      "issues": 956,
+      "total_groups": 19120,
       "total_hits": 21,
       "hit_rate": 0.0011,
       "issues_with_hit": 21,
@@ -401747,304 +401760,493 @@
        ]
       ],
       "h3": 0
+     },
+     {
+      "issue": "2026294",
+      "y2": [
+       [
+        8,
+        34
+       ],
+       [
+        3,
+        11
+       ],
+       [
+        11,
+        21
+       ],
+       [
+        8,
+        11
+       ],
+       [
+        1,
+        3
+       ],
+       [
+        39,
+        46
+       ],
+       [
+        5,
+        7
+       ],
+       [
+        6,
+        22
+       ],
+       [
+        17,
+        39
+       ],
+       [
+        33,
+        44
+       ],
+       [
+        11,
+        44
+       ],
+       [
+        19,
+        23
+       ],
+       [
+        9,
+        22
+       ],
+       [
+        3,
+        5
+       ],
+       [
+        15,
+        32
+       ],
+       [
+        12,
+        35
+       ],
+       [
+        3,
+        32
+       ],
+       [
+        16,
+        36
+       ],
+       [
+        1,
+        19
+       ],
+       [
+        10,
+        16
+       ]
+      ],
+      "h2": 0,
+      "y3": [
+       [
+        7,
+        9,
+        10
+       ],
+       [
+        12,
+        27,
+        44
+       ],
+       [
+        8,
+        37,
+        39
+       ],
+       [
+        19,
+        29,
+        38
+       ],
+       [
+        19,
+        40,
+        44
+       ],
+       [
+        31,
+        32,
+        37
+       ],
+       [
+        17,
+        27,
+        40
+       ],
+       [
+        9,
+        23,
+        41
+       ],
+       [
+        3,
+        38,
+        40
+       ],
+       [
+        21,
+        40,
+        49
+       ],
+       [
+        15,
+        19,
+        31
+       ],
+       [
+        5,
+        42,
+        44
+       ],
+       [
+        21,
+        46,
+        49
+       ],
+       [
+        8,
+        10,
+        12
+       ],
+       [
+        1,
+        7,
+        43
+       ],
+       [
+        3,
+        17,
+        46
+       ],
+       [
+        20,
+        38,
+        46
+       ],
+       [
+        2,
+        10,
+        41
+       ],
+       [
+        9,
+        35,
+        42
+       ],
+       [
+        1,
+        15,
+        40
+       ]
+      ],
+      "h3": 0
      }
     ]
    },
    "prediction": {
-    "next_issue": "2026294",
+    "next_issue": "2026295",
     "main_pick": [
      6,
      22,
      40,
      19,
-     10,
-     29
+     30,
+     10
     ],
-    "special_pick": 30,
+    "special_pick": 2,
     "pairs_2of2": [
      [
-      28,
-      32
-     ],
-     [
-      5,
-      43
-     ],
-     [
-      17,
-      18
-     ],
-     [
-      17,
-      32
-     ],
-     [
-      2,
-      15
-     ],
-     [
-      29,
-      35
-     ],
-     [
-      38,
-      39
-     ],
-     [
-      23,
-      30
-     ],
-     [
-      24,
-      45
-     ],
-     [
-      10,
-      36
-     ],
-     [
-      10,
-      17
-     ],
-     [
-      10,
-      15
-     ],
-     [
-      30,
-      39
-     ],
-     [
-      15,
-      38
-     ],
-     [
-      16,
-      22
-     ],
-     [
-      33,
-      36
-     ],
-     [
-      16,
-      43
-     ],
-     [
-      8,
-      13
-     ],
-     [
-      2,
-      19
-     ],
-     [
-      6,
-      8
-     ]
-    ],
-    "triples_3of3": [
-     [
-      6,
-      39,
-      45
-     ],
-     [
-      8,
-      10,
+      18,
       25
      ],
      [
-      31,
-      45,
-      47
-     ],
-     [
-      19,
-      38,
-      46
-     ],
-     [
-      6,
-      10,
-      19
-     ],
-     [
-      16,
       26,
       31
      ],
      [
-      11,
-      22,
-      24
-     ],
-     [
-      15,
-      39,
-      48
-     ],
-     [
-      6,
-      15,
-      38
-     ],
-     [
-      1,
-      18,
-      22
-     ],
-     [
-      19,
-      22,
-      26
-     ],
-     [
       10,
-      25,
-      38
-     ],
-     [
-      1,
-      18,
-      29
-     ],
-     [
-      6,
-      32,
-      33
-     ],
-     [
-      20,
-      26,
-      45
-     ],
-     [
-      15,
-      24,
-      29
-     ],
-     [
-      29,
-      38,
-      49
-     ],
-     [
-      6,
-      9,
       13
      ],
      [
-      25,
-      36,
-      39
+      5,
+      26
+     ],
+     [
+      29,
+      36
+     ],
+     [
+      22,
+      31
      ],
      [
       2,
-      6,
-      22
-     ]
-    ],
-    "triples_3of2": [
-     [
-      5,
-      11,
-      42
+      44
      ],
      [
-      8,
-      22,
-      41
-     ],
-     [
-      30,
-      36,
-      45
-     ],
-     [
-      6,
-      35,
+      29,
       40
      ],
      [
-      17,
-      31,
-      49
-     ],
-     [
       6,
-      14,
-      17
+      24
      ],
      [
-      8,
+      24,
+      36
+     ],
+     [
+      30,
+      44
+     ],
+     [
+      16,
+      46
+     ],
+     [
+      11,
+      39
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      11,
+      37
+     ],
+     [
+      11,
+      22
+     ],
+     [
+      9,
+      11
+     ],
+     [
+      31,
+      45
+     ],
+     [
+      16,
+      47
+     ],
+     [
+      16,
+      38
+     ]
+    ],
+    "triples_3of3": [
+     [
+      29,
+      38,
+      40
+     ],
+     [
+      19,
+      28,
+      48
+     ],
+     [
+      1,
+      6,
+      18
+     ],
+     [
+      1,
+      24,
+      33
+     ],
+     [
+      1,
+      3,
+      22
+     ],
+     [
+      25,
+      42,
+      47
+     ],
+     [
+      2,
+      16,
+      23
+     ],
+     [
+      10,
+      18,
+      21
+     ],
+     [
+      1,
       10,
       30
      ],
      [
-      20,
-      24,
-      40
-     ],
-     [
-      13,
-      29,
-      39
-     ],
-     [
-      7,
-      38,
-      44
-     ],
-     [
-      14,
-      20,
-      37
-     ],
-     [
-      9,
-      21,
-      24
-     ],
-     [
-      27,
-      32,
-      35
-     ],
-     [
-      9,
-      21,
-      47
-     ],
-     [
       22,
-      24,
-      46
-     ],
-     [
-      6,
-      38,
-      42
-     ],
-     [
-      17,
-      26,
-      29
-     ],
-     [
-      9,
-      26,
-      49
+      31,
+      36
      ],
      [
       5,
+      32,
+      37
+     ],
+     [
+      20,
+      25,
+      31
+     ],
+     [
+      1,
+      24,
+      39
+     ],
+     [
+      9,
+      33,
+      42
+     ],
+     [
+      1,
+      19,
+      29
+     ],
+     [
+      10,
+      22,
+      38
+     ],
+     [
       6,
-      25
+      15,
+      23
+     ],
+     [
+      1,
+      29,
+      38
+     ],
+     [
+      8,
+      11,
+      29
+     ],
+     [
+      2,
+      10,
+      30
+     ]
+    ],
+    "triples_3of2": [
+     [
+      2,
+      16,
+      39
+     ],
+     [
+      6,
+      42,
+      44
+     ],
+     [
+      43,
+      44,
+      46
+     ],
+     [
+      22,
+      40,
+      42
+     ],
+     [
+      9,
+      18,
+      46
+     ],
+     [
+      11,
+      25,
+      44
+     ],
+     [
+      15,
+      21,
+      33
      ],
      [
       19,
       26,
-      39
+      45
+     ],
+     [
+      10,
+      43,
+      46
+     ],
+     [
+      33,
+      42,
+      47
+     ],
+     [
+      3,
+      22,
+      40
+     ],
+     [
+      10,
+      29,
+      33
+     ],
+     [
+      11,
+      37,
+      48
+     ],
+     [
+      5,
+      26,
+      48
+     ],
+     [
+      2,
+      3,
+      26
+     ],
+     [
+      2,
+      22,
+      43
+     ],
+     [
+      30,
+      38,
+      40
+     ],
+     [
+      8,
+      30,
+      40
+     ],
+     [
+      9,
+      19,
+      35
+     ],
+     [
+      9,
+      10,
+      47
      ]
     ],
     "zodiac_plays": {
@@ -402052,54 +402254,54 @@
       "马"
      ],
      "2xiao": [
-      "兔",
-      "猴"
+      "鸡",
+      "猪"
      ],
      "3xiao": [
       "虎",
       "蛇",
-      "猴"
+      "鸡"
      ],
      "4xiao": [
-      "鼠",
+      "牛",
       "虎",
-      "龙",
+      "马",
       "鸡"
      ],
      "5xiao": [
+      "鼠",
       "牛",
-      "虎",
-      "蛇",
+      "马",
       "鸡",
       "猪"
      ],
      "scores": {
-      "鼠": 38.8,
-      "牛": 26.9,
-      "虎": 52.0,
-      "兔": 25.8,
-      "龙": 20.7,
-      "蛇": 37.8,
-      "马": 64.1,
-      "羊": 9.6,
-      "猴": 26.8,
-      "鸡": 54.5,
-      "狗": 0.0,
-      "猪": 46.1
+      "鼠": 21.8,
+      "牛": 38.6,
+      "虎": 49.4,
+      "兔": 20.2,
+      "龙": 17.5,
+      "蛇": 35.9,
+      "马": 71.9,
+      "羊": 22.0,
+      "猴": 37.7,
+      "鸡": 54.9,
+      "狗": 8.3,
+      "猪": 54.6
      },
      "omission": {
-      "鼠": 3,
-      "牛": 1,
+      "鼠": 0,
+      "牛": 2,
       "虎": 0,
-      "兔": 1,
-      "龙": 1,
+      "兔": 0,
+      "龙": 0,
       "蛇": 0,
-      "马": 0,
-      "羊": 0,
-      "猴": 1,
+      "马": 1,
+      "羊": 1,
+      "猴": 2,
       "鸡": 0,
-      "狗": 0,
-      "猪": 2
+      "狗": 1,
+      "猪": 3
      }
     },
     "tail_plays": {
@@ -402111,109 +402313,109 @@
       9
      ],
      "2wei": [
-      5,
-      7
+      1,
+      2
      ],
      "3wei": [
-      2,
-      6,
-      9
-     ],
-     "4wei": [
-      2,
       3,
       5,
-      9
+      8
      ],
-     "5wei": [
+     "4wei": [
       4,
       5,
-      6,
       8,
       9
      ],
+     "5wei": [
+      1,
+      2,
+      3,
+      5,
+      8
+     ],
      "scores": {
-      "0": 14.0,
-      "1": 41.5,
-      "2": 62.1,
-      "3": 40.6,
-      "4": 36.1,
-      "5": 51.0,
-      "6": 75.5,
-      "7": 47.1,
-      "8": 34.4,
-      "9": 64.6
+      "0": 14.7,
+      "1": 41.3,
+      "2": 40.3,
+      "3": 39.7,
+      "4": 24.2,
+      "5": 60.2,
+      "6": 79.6,
+      "7": 22.6,
+      "8": 37.6,
+      "9": 66.6
      },
      "omission": {
       "0": 0,
-      "1": 2,
-      "2": 2,
+      "1": 3,
+      "2": 0,
       "3": 0,
-      "4": 1,
-      "5": 0,
-      "6": 1,
-      "7": 2,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
       "8": 0,
       "9": 0
      }
     },
     "not_hit": {
      "5": [
-      7,
-      25,
-      27,
-      38,
-      44
+      3,
+      4,
+      9,
+      14,
+      35
      ],
      "6": [
-      4,
+      7,
+      12,
       18,
-      39,
-      41,
-      42,
-      44
+      26,
+      32,
+      48
      ],
      "7": [
-      14,
-      28,
-      33,
+      8,
+      9,
+      15,
+      31,
+      32,
       34,
-      36,
-      39,
-      42
+      37
      ],
      "8": [
-      1,
-      2,
-      12,
-      18,
-      20,
-      27,
-      31,
-      48
-     ],
-     "9": [
-      12,
-      17,
-      18,
-      29,
-      31,
-      32,
-      34,
-      38,
-      48
-     ],
-     "10": [
-      1,
-      2,
       4,
       8,
-      17,
-      25,
+      9,
+      10,
+      21,
+      29,
       32,
+      42
+     ],
+     "9": [
+      8,
+      10,
+      13,
+      21,
+      22,
+      27,
+      31,
+      32,
+      34
+     ],
+     "10": [
+      2,
+      4,
+      5,
+      9,
+      14,
+      16,
+      24,
       33,
-      43,
-      47
+      40,
+      45
      ]
     },
     "main_pool": [
@@ -402222,618 +402424,618 @@
       "score": 100.0,
       "freq": 149,
       "recent": 15,
-      "last_seen": 6
+      "last_seen": 7
      },
      {
       "num": 22,
-      "score": 94.5,
+      "score": 91.0,
       "freq": 154,
       "recent": 14,
-      "last_seen": 2
-     },
-     {
-      "num": 40,
-      "score": 92.2,
-      "freq": 166,
-      "recent": 11,
       "last_seen": 3
      },
      {
+      "num": 40,
+      "score": 83.8,
+      "freq": 166,
+      "recent": 10,
+      "last_seen": 4
+     },
+     {
       "num": 19,
-      "score": 85.1,
+      "score": 83.8,
       "freq": 164,
       "recent": 10,
-      "last_seen": 4
-     },
-     {
-      "num": 10,
-      "score": 79.6,
-      "freq": 169,
-      "recent": 9,
-      "last_seen": 0
-     },
-     {
-      "num": 29,
-      "score": 77.9,
-      "freq": 158,
-      "recent": 10,
-      "last_seen": 4
-     },
-     {
-      "num": 46,
-      "score": 76.8,
-      "freq": 161,
-      "recent": 9,
       "last_seen": 5
      },
      {
-      "num": 5,
-      "score": 73.6,
-      "freq": 159,
-      "recent": 10,
-      "last_seen": 0
-     },
-     {
-      "num": 17,
-      "score": 72.7,
+      "num": 30,
+      "score": 81.6,
       "freq": 156,
-      "recent": 10,
-      "last_seen": 2
+      "recent": 5,
+      "last_seen": 21
      },
      {
-      "num": 38,
-      "score": 72.4,
-      "freq": 158,
+      "num": 10,
+      "score": 79.4,
+      "freq": 170,
       "recent": 10,
       "last_seen": 0
      },
      {
       "num": 44,
-      "score": 71.7,
+      "score": 77.6,
       "freq": 160,
       "recent": 7,
-      "last_seen": 11
+      "last_seen": 12
      },
      {
       "num": 24,
-      "score": 71.1,
+      "score": 73.3,
       "freq": 159,
       "recent": 8,
-      "last_seen": 7
+      "last_seen": 8
+     },
+     {
+      "num": 29,
+      "score": 72.8,
+      "freq": 159,
+      "recent": 11,
+      "last_seen": 0
+     },
+     {
+      "num": 46,
+      "score": 71.2,
+      "freq": 161,
+      "recent": 8,
+      "last_seen": 6
+     },
+     {
+      "num": 5,
+      "score": 69.3,
+      "freq": 159,
+      "recent": 10,
+      "last_seen": 1
+     },
+     {
+      "num": 38,
+      "score": 68.2,
+      "freq": 158,
+      "recent": 10,
+      "last_seen": 1
+     },
+     {
+      "num": 11,
+      "score": 67.1,
+      "freq": 151,
+      "recent": 5,
+      "last_seen": 17
      },
      {
       "num": 3,
-      "score": 67.8,
+      "score": 66.5,
       "freq": 149,
-      "recent": 9,
-      "last_seen": 9
+      "recent": 8,
+      "last_seen": 10
      },
      {
-      "num": 30,
-      "score": 67.0,
+      "num": 17,
+      "score": 64.6,
       "freq": 156,
-      "recent": 5,
-      "last_seen": 20
-     },
-     {
-      "num": 15,
-      "score": 60.7,
-      "freq": 165,
-      "recent": 6,
+      "recent": 9,
       "last_seen": 3
      }
     ],
     "special_pool": [
      {
-      "num": 30,
-      "score": 81.5,
-      "freq_sp": 25,
-      "recent_sp": 3,
-      "last_seen_sp": 31
-     },
-     {
       "num": 2,
       "score": 74.8,
       "freq_sp": 24,
       "recent_sp": 3,
-      "last_seen_sp": 15
+      "last_seen_sp": 16
      },
      {
       "num": 23,
       "score": 69.2,
       "freq_sp": 27,
       "recent_sp": 2,
-      "last_seen_sp": 11
+      "last_seen_sp": 12
      },
      {
       "num": 24,
       "score": 68.5,
       "freq_sp": 27,
       "recent_sp": 2,
-      "last_seen_sp": 7
-     },
-     {
-      "num": 46,
-      "score": 66.1,
-      "freq_sp": 25,
-      "recent_sp": 2,
-      "last_seen_sp": 35
+      "last_seen_sp": 8
      },
      {
       "num": 16,
       "score": 58.4,
       "freq_sp": 27,
       "recent_sp": 1,
-      "last_seen_sp": 40
+      "last_seen_sp": 41
      },
      {
       "num": 20,
       "score": 58.2,
       "freq_sp": 23,
       "recent_sp": 2,
-      "last_seen_sp": 33
+      "last_seen_sp": 34
      },
      {
       "num": 14,
       "score": 55.2,
       "freq_sp": 23,
       "recent_sp": 2,
-      "last_seen_sp": 17
+      "last_seen_sp": 18
      },
      {
       "num": 1,
       "score": 54.1,
       "freq_sp": 26,
       "recent_sp": 1,
-      "last_seen_sp": 37
+      "last_seen_sp": 38
      },
      {
       "num": 17,
       "score": 52.5,
       "freq_sp": 23,
       "recent_sp": 2,
-      "last_seen_sp": 2
+      "last_seen_sp": 3
+     },
+     {
+      "num": 5,
+      "score": 52.1,
+      "freq_sp": 23,
+      "recent_sp": 2,
+      "last_seen_sp": 1
+     },
+     {
+      "num": 44,
+      "score": 50.5,
+      "freq_sp": 25,
+      "recent_sp": 1,
+      "last_seen_sp": 39
      }
     ],
     "pairs_2of2_40": [
      [
+      18,
+      19
+     ],
+     [
+      6,
+      10
+     ],
+     [
+      30,
+      47
+     ],
+     [
+      25,
+      37
+     ],
+     [
+      10,
+      46
+     ],
+     [
       22,
-      45
+      40
+     ],
+     [
+      21,
+      29
      ],
      [
       6,
       29
      ],
      [
-      42,
-      43
+      17,
+      47
+     ],
+     [
+      21,
+      32
+     ],
+     [
+      8,
+      22
+     ],
+     [
+      5,
+      19
+     ],
+     [
+      6,
+      30
+     ],
+     [
+      10,
+      22
      ],
      [
       8,
       20
      ],
      [
+      17,
+      24
+     ],
+     [
+      11,
+      29
+     ],
+     [
+      9,
+      49
+     ],
+     [
       3,
+      29
+     ],
+     [
+      7,
+      45
+     ],
+     [
+      2,
       5
      ],
      [
-      3,
-      32
+      5,
+      44
      ],
      [
-      3,
+      9,
+      19
+     ],
+     [
+      5,
       40
      ],
      [
-      20,
-      38
+      22,
+      29
+     ],
+     [
+      12,
+      26
+     ],
+     [
+      10,
+      20
+     ],
+     [
+      26,
+      42
      ],
      [
       17,
-      38
+      46
      ],
      [
-      19,
-      39
+      2,
+      26
+     ],
+     [
+      39,
+      42
+     ],
+     [
+      22,
+      45
+     ],
+     [
+      10,
+      40
+     ],
+     [
+      10,
+      25
      ],
      [
       33,
       46
      ],
      [
-      15,
-      43
-     ],
-     [
-      6,
-      10
-     ],
-     [
-      22,
-      30
-     ],
-     [
-      37,
-      48
-     ],
-     [
-      45,
-      49
-     ],
-     [
-      2,
+      18,
       46
      ],
      [
-      32,
-      40
-     ],
-     [
-      2,
-      24
-     ],
-     [
-      8,
+      11,
       43
      ],
      [
-      19,
-      49
-     ],
-     [
-      21,
-      47
-     ],
-     [
-      29,
-      36
-     ],
-     [
-      6,
-      28
-     ],
-     [
-      3,
-      10
-     ],
-     [
-      2,
-      26
-     ],
-     [
-      8,
-      15
+      22,
+      35
      ],
      [
       24,
       40
      ],
      [
-      1,
-      32
-     ],
-     [
-      44,
-      48
-     ],
-     [
-      25,
-      38
-     ],
-     [
-      17,
-      19
-     ],
-     [
-      10,
-      26
-     ],
-     [
-      25,
-      35
-     ],
-     [
-      9,
-      29
-     ],
-     [
-      5,
-      26
-     ],
-     [
-      3,
-      17
-     ],
-     [
-      19,
-      32
-     ],
-     [
-      18,
-      22
-     ],
-     [
-      6,
-      9
+      43,
+      49
      ]
     ],
     "pairs_2of2_60": [
-     [
-      16,
-      33
-     ],
      [
       1,
       8
      ],
      [
       24,
-      25
+      36
      ],
      [
-      8,
-      45
-     ],
-     [
-      21,
-      38
-     ],
-     [
-      26,
-      30
-     ],
-     [
-      20,
-      33
-     ],
-     [
-      15,
-      22
-     ],
-     [
-      19,
-      33
-     ],
-     [
-      3,
+      13,
       29
      ],
      [
-      29,
-      48
-     ],
-     [
-      8,
-      17
-     ],
-     [
-      1,
-      43
-     ],
-     [
-      1,
-      23
-     ],
-     [
       22,
-      46
+      36
      ],
      [
-      24,
-      35
-     ],
-     [
-      22,
+      3,
       44
      ],
      [
-      10,
-      11
+      26,
+      43
+     ],
+     [
+      2,
+      31
+     ],
+     [
+      5,
+      21
+     ],
+     [
+      24,
+      45
+     ],
+     [
+      1,
+      6
+     ],
+     [
+      15,
+      46
+     ],
+     [
+      9,
+      42
      ],
      [
       11,
       17
      ],
      [
-      1,
+      3,
+      14
+     ],
+     [
+      10,
+      19
+     ],
+     [
+      5,
+      8
+     ],
+     [
+      3,
+      35
+     ],
+     [
+      29,
+      44
+     ],
+     [
+      19,
+      46
+     ],
+     [
+      21,
+      29
+     ],
+     [
+      6,
+      10
+     ],
+     [
+      2,
+      42
+     ],
+     [
+      8,
       44
      ],
      [
       6,
-      23
+      17
      ],
      [
-      19,
-      22
+      9,
+      21
      ],
      [
-      10,
-      31
-     ],
-     [
-      15,
-      36
-     ],
-     [
-      22,
-      24
-     ],
-     [
-      15,
-      31
-     ],
-     [
-      17,
-      24
-     ],
-     [
-      38,
-      40
-     ],
-     [
-      22,
-      40
+      6,
+      39
      ],
      [
       5,
       43
      ],
      [
-      22,
-      31
+      16,
+      29
      ],
      [
-      19,
-      42
+      6,
+      24
      ],
      [
-      3,
-      18
-     ],
-     [
-      17,
+      2,
       33
      ],
      [
-      26,
-      48
-     ],
-     [
-      7,
+      16,
       19
-     ],
-     [
-      25,
-      29
-     ],
-     [
-      43,
-      46
-     ],
-     [
-      20,
-      22
-     ],
-     [
-      22,
-      45
-     ],
-     [
-      1,
-      17
-     ],
-     [
-      44,
-      45
-     ],
-     [
-      15,
-      29
-     ],
-     [
-      8,
-      18
-     ],
-     [
-      35,
-      40
-     ],
-     [
-      1,
-      19
-     ],
-     [
-      10,
-      45
-     ],
-     [
-      7,
-      11
-     ],
-     [
-      5,
-      27
-     ],
-     [
-      1,
-      30
-     ],
-     [
-      19,
-      49
-     ],
-     [
-      39,
-      45
-     ],
-     [
-      20,
-      49
-     ],
-     [
-      9,
-      30
-     ],
-     [
-      6,
-      15
-     ],
-     [
-      37,
-      39
-     ],
-     [
-      40,
-      46
      ],
      [
       16,
-      40
+      24
      ],
      [
-      19,
-      37
+      25,
+      38
+     ],
+     [
+      17,
+      18
      ],
      [
       6,
+      37
+     ],
+     [
+      19,
+      31
+     ],
+     [
+      20,
+      23
+     ],
+     [
+      14,
+      48
+     ],
+     [
+      5,
+      40
+     ],
+     [
+      3,
+      32
+     ],
+     [
+      26,
+      36
+     ],
+     [
+      5,
+      29
+     ],
+     [
+      16,
+      23
+     ],
+     [
+      29,
+      33
+     ],
+     [
+      7,
       20
+     ],
+     [
+      22,
+      47
+     ],
+     [
+      15,
+      49
+     ],
+     [
+      15,
+      36
+     ],
+     [
+      6,
+      48
+     ],
+     [
+      2,
+      20
+     ],
+     [
+      43,
+      49
+     ],
+     [
+      15,
+      20
+     ],
+     [
+      1,
+      45
+     ],
+     [
+      6,
+      36
+     ],
+     [
+      5,
+      38
+     ],
+     [
+      10,
+      25
+     ],
+     [
+      1,
+      24
+     ],
+     [
+      26,
+      38
+     ],
+     [
+      1,
+      36
+     ],
+     [
+      10,
+      40
      ]
     ],
     "ai_prediction": {
-     "next_issue": "2026294",
+     "next_issue": "2026295",
      "main_pick": [
-      44,
       42,
+      44,
       45,
-      20,
       26,
-      27
+      20,
+      30
      ],
      "special_pick": 24,
      "special_zodiac": "羊",
      "special_element": "木",
      "top10": [
-      44,
       42,
+      44,
       45,
-      20,
       26,
-      27,
+      20,
       31,
-      48,
-      36,
-      15
+      30,
+      33,
+      11,
+      37
      ],
      "top10_info": [
-      {
-       "num": 44,
-       "zodiac": "猪",
-       "element": "水"
-      },
       {
        "num": 42,
        "zodiac": "牛",
        "element": "金"
+      },
+      {
+       "num": 44,
+       "zodiac": "猪",
+       "element": "水"
       },
       {
        "num": 45,
@@ -402841,19 +403043,14 @@
        "element": "水"
       },
       {
-       "num": 20,
-       "zodiac": "猪",
-       "element": "土"
-      },
-      {
        "num": 26,
        "zodiac": "蛇",
        "element": "金"
       },
       {
-       "num": 27,
-       "zodiac": "龙",
-       "element": "金"
+       "num": 20,
+       "zodiac": "猪",
+       "element": "土"
       },
       {
        "num": 31,
@@ -402861,25 +403058,30 @@
        "element": "水"
       },
       {
-       "num": 48,
-       "zodiac": "羊",
+       "num": 30,
+       "zodiac": "牛",
+       "element": "水"
+      },
+      {
+       "num": 33,
+       "zodiac": "狗",
        "element": "火"
       },
       {
-       "num": 36,
-       "zodiac": "羊",
-       "element": "土"
+       "num": 11,
+       "zodiac": "猴",
+       "element": "火"
       },
       {
-       "num": 15,
-       "zodiac": "龙",
-       "element": "水"
+       "num": 37,
+       "zodiac": "马",
+       "element": "土"
       }
      ],
      "top3_zodiac": [
       "狗",
-      "羊",
-      "牛"
+      "牛",
+      "猪"
      ],
      "top3_zodiac_members": {
       "狗": [
@@ -402888,68 +403090,68 @@
        33,
        45
       ],
-      "羊": [
-       12,
-       24,
-       36,
-       48
-      ],
       "牛": [
        6,
        18,
        30,
        42
+      ],
+      "猪": [
+       8,
+       20,
+       32,
+       44
       ]
      },
      "element_rank": [
       {
        "element": "水",
-       "score": 60.8,
-       "share": 19.1,
-       "due": 0.9
+       "score": 58.1,
+       "share": 19.08,
+       "due": 0.92
       },
       {
        "element": "土",
-       "score": 59.8,
-       "share": 15.79,
-       "due": 4.21
+       "score": 51.1,
+       "share": 15.78,
+       "due": 4.22
       },
       {
        "element": "火",
-       "score": 48.9,
-       "share": 24.7,
+       "score": 44.4,
+       "share": 24.72,
        "due": 0.0
       },
       {
        "element": "木",
-       "score": 46.5,
-       "share": 20.76,
+       "score": 41.0,
+       "share": 20.77,
        "due": 0.0
       },
       {
        "element": "金",
-       "score": 46.5,
-       "share": 19.65,
-       "due": 0.35
+       "score": 35.3,
+       "share": 19.66,
+       "due": 0.34
       }
      ],
      "wave_rank": [
       {
        "wave": "蓝波",
-       "score": 65.4,
-       "share": 31.73,
-       "due": 1.6
+       "score": 59.5,
+       "share": 31.74,
+       "due": 1.59
       },
       {
        "wave": "绿波",
-       "score": 52.3,
-       "share": 32.83,
-       "due": 0.51
+       "score": 42.5,
+       "share": 32.84,
+       "due": 0.5
       },
       {
        "wave": "红波",
-       "score": 41.1,
-       "share": 35.44,
+       "score": 37.2,
+       "share": 35.42,
        "due": 0.0
       }
      ],
@@ -402970,19 +403172,19 @@
       },
       {
        "tail": 4,
-       "score": 27.3
+       "score": 27.0
       },
       {
        "tail": 7,
-       "score": 24.5
+       "score": 24.2
       },
       {
        "tail": 8,
-       "score": 23.0
+       "score": 22.7
       },
       {
        "tail": 1,
-       "score": 12.0
+       "score": 13.1
       },
       {
        "tail": 6,
@@ -402993,12 +403195,12 @@
        "score": 0.1
       },
       {
-       "tail": 3,
-       "score": 0.0
+       "tail": 2,
+       "score": 0.1
       },
       {
-       "tail": 2,
-       "score": 0.0
+       "tail": 3,
+       "score": 0.1
       },
       {
        "tail": 9,
@@ -403016,7 +403218,7 @@
       },
       {
        "head": 3,
-       "score": 13.1
+       "score": 13.3
       },
       {
        "head": 4,
@@ -403024,7 +403226,7 @@
       },
       {
        "head": 2,
-       "score": 0.2
+       "score": 0.1
       },
       {
        "head": 1,
@@ -403032,298 +403234,298 @@
       }
      ],
      "comp_main": {
-      "1": 30.1,
-      "2": 32.8,
-      "3": 58.4,
-      "4": 36.2,
-      "5": 36.7,
-      "6": 59.6,
-      "7": 32.6,
-      "8": 18.2,
-      "9": 61.4,
-      "10": 63.1,
-      "11": 68.2,
-      "12": 31.5,
-      "13": 0.0,
-      "14": 41.0,
-      "15": 69.0,
-      "16": 31.4,
-      "17": 35.3,
-      "18": 4.2,
-      "19": 38.4,
-      "20": 84.6,
-      "21": 56.8,
-      "22": 38.0,
-      "23": 41.7,
-      "24": 58.1,
-      "25": 57.6,
-      "26": 82.2,
-      "27": 73.5,
-      "28": 55.7,
-      "29": 54.5,
-      "30": 65.0,
-      "31": 71.8,
-      "32": 25.4,
-      "33": 65.4,
-      "34": 8.4,
-      "35": 30.8,
-      "36": 69.7,
-      "37": 64.5,
-      "38": 57.5,
-      "39": 17.9,
-      "40": 57.3,
-      "41": 53.8,
-      "42": 99.7,
-      "43": 66.0,
-      "44": 100.0,
-      "45": 90.1,
-      "46": 63.7,
-      "47": 64.0,
-      "48": 69.9,
-      "49": 49.3
+      "1": 31.8,
+      "2": 22.5,
+      "3": 56.9,
+      "4": 31.5,
+      "5": 29.8,
+      "6": 55.0,
+      "7": 29.8,
+      "8": 18.6,
+      "9": 50.4,
+      "10": 49.8,
+      "11": 72.2,
+      "12": 29.9,
+      "13": 0.3,
+      "14": 39.2,
+      "15": 59.3,
+      "16": 27.2,
+      "17": 30.7,
+      "18": 5.1,
+      "19": 35.3,
+      "20": 77.8,
+      "21": 51.8,
+      "22": 33.1,
+      "23": 35.6,
+      "24": 54.4,
+      "25": 52.1,
+      "26": 80.4,
+      "27": 7.9,
+      "28": 38.9,
+      "29": 37.2,
+      "30": 73.6,
+      "31": 75.0,
+      "32": 23.5,
+      "33": 72.9,
+      "34": 0.0,
+      "35": 31.9,
+      "36": 58.3,
+      "37": 60.1,
+      "38": 46.9,
+      "39": 15.8,
+      "40": 50.2,
+      "41": 46.3,
+      "42": 100.0,
+      "43": 41.0,
+      "44": 93.1,
+      "45": 81.8,
+      "46": 57.0,
+      "47": 57.2,
+      "48": 57.4,
+      "49": 40.3
      },
      "comp_special": {
-      "1": 60.4,
-      "2": 55.3,
-      "3": 57.6,
-      "4": 47.3,
-      "5": 54.3,
-      "6": 71.8,
-      "7": 24.9,
-      "8": 19.4,
-      "9": 69.5,
-      "10": 74.0,
-      "11": 60.3,
-      "12": 24.3,
-      "13": 4.9,
-      "14": 57.0,
-      "15": 64.2,
-      "16": 64.5,
-      "17": 53.4,
-      "18": 20.9,
-      "19": 41.9,
-      "20": 83.8,
-      "21": 49.9,
-      "22": 48.4,
-      "23": 70.8,
-      "24": 80.9,
-      "25": 53.8,
-      "26": 62.2,
-      "27": 66.9,
-      "28": 52.6,
-      "29": 48.5,
-      "30": 78.4,
-      "31": 55.8,
-      "32": 27.2,
-      "33": 48.5,
+      "1": 66.0,
+      "2": 53.6,
+      "3": 61.3,
+      "4": 49.1,
+      "5": 54.7,
+      "6": 73.5,
+      "7": 28.2,
+      "8": 24.6,
+      "9": 67.3,
+      "10": 70.3,
+      "11": 67.3,
+      "12": 28.2,
+      "13": 10.1,
+      "14": 60.5,
+      "15": 62.8,
+      "16": 66.5,
+      "17": 55.3,
+      "18": 26.4,
+      "19": 44.8,
+      "20": 84.0,
+      "21": 51.5,
+      "22": 50.1,
+      "23": 71.6,
+      "24": 83.0,
+      "25": 55.0,
+      "26": 65.6,
+      "27": 31.4,
+      "28": 50.3,
+      "29": 42.6,
+      "30": 88.1,
+      "31": 62.4,
+      "32": 30.9,
+      "33": 57.8,
       "34": 0.0,
-      "35": 30.5,
-      "36": 47.8,
-      "37": 54.7,
-      "38": 53.7,
-      "39": 39.4,
-      "40": 80.4,
+      "35": 36.1,
+      "36": 45.5,
+      "37": 56.6,
+      "38": 51.9,
+      "39": 42.9,
+      "40": 80.5,
       "41": 64.8,
-      "42": 79.6,
-      "43": 65.6,
+      "42": 84.2,
+      "43": 54.9,
       "44": 100.0,
-      "45": 80.5,
-      "46": 77.6,
-      "47": 54.3,
-      "48": 61.3,
-      "49": 65.4
+      "45": 79.8,
+      "46": 78.0,
+      "47": 54.8,
+      "48": 58.3,
+      "49": 64.5
      },
      "pairs_2of2": [
       [
-       38,
-       48
+       11,
+       16
       ],
       [
-       17,
-       24
-      ],
-      [
-       6,
-       38
-      ],
-      [
-       35,
-       49
-      ],
-      [
-       15,
-       22
-      ],
-      [
-       1,
-       47
-      ],
-      [
-       15,
-       36
-      ],
-      [
-       4,
-       31
-      ],
-      [
-       26,
-       31
-      ],
-      [
-       12,
+       25,
        37
       ],
       [
-       41,
-       48
+       3,
+       11
+      ],
+      [
+       30,
+       47
       ],
       [
        36,
-       38
+       44
       ],
       [
-       43,
-       47
-      ],
-      [
-       21,
-       38
-      ],
-      [
-       11,
-       37
+       20,
+       43
       ],
       [
        10,
-       29
+       15
       ],
       [
-       9,
-       48
+       22,
+       37
+      ],
+      [
+       21,
+       44
       ],
       [
        23,
-       47
+       36
       ],
       [
-       24,
-       27
+       25,
+       32
       ],
       [
-       24,
-       46
+       11,
+       48
+      ],
+      [
+       7,
+       26
+      ],
+      [
+       20,
+       41
+      ],
+      [
+       4,
+       12
+      ],
+      [
+       20,
+       37
+      ],
+      [
+       11,
+       39
+      ],
+      [
+       30,
+       44
+      ],
+      [
+       7,
+       32
+      ],
+      [
+       1,
+       30
       ]
      ],
      "triples_3of3": [
       [
-       5,
+       15,
        24,
-       32
+       28
       ],
       [
-       36,
-       42,
-       45
-      ],
-      [
-       6,
-       27,
-       35
-      ],
-      [
-       3,
-       20,
-       33
-      ],
-      [
-       29,
-       40,
-       44
-      ],
-      [
-       6,
-       20,
-       47
-      ],
-      [
-       37,
-       40,
+       15,
+       45,
        46
       ],
       [
        11,
-       24,
-       49
-      ],
-      [
-       17,
-       23,
-       35
-      ],
-      [
-       17,
-       27,
-       41
-      ],
-      [
-       2,
-       26,
-       34
-      ],
-      [
-       21,
-       33,
-       42
-      ],
-      [
        15,
-       42,
-       44
+       26
       ],
       [
        5,
-       16,
-       44
-      ],
-      [
-       11,
-       43,
-       47
-      ],
-      [
-       3,
-       43,
-       47
-      ],
-      [
-       24,
-       29,
-       44
-      ],
-      [
-       9,
-       44,
+       37,
        49
       ],
       [
        10,
-       42,
+       16,
+       44
+      ],
+      [
+       14,
+       31,
+       47
+      ],
+      [
+       7,
+       29,
+       45
+      ],
+      [
+       3,
+       4,
+       9
+      ],
+      [
+       14,
+       24,
+       38
+      ],
+      [
+       33,
+       48,
        49
       ],
       [
-       37,
-       39,
+       9,
+       24,
        44
+      ],
+      [
+       29,
+       31,
+       36
+      ],
+      [
+       6,
+       26,
+       42
+      ],
+      [
+       29,
+       33,
+       44
+      ],
+      [
+       12,
+       17,
+       36
+      ],
+      [
+       6,
+       9,
+       17
+      ],
+      [
+       11,
+       42,
+       45
+      ],
+      [
+       31,
+       32,
+       38
+      ],
+      [
+       19,
+       26,
+       30
+      ],
+      [
+       15,
+       31,
+       42
       ]
      ],
      "main_zodiac": {
-      "zodiac": "鼠",
+      "zodiac": "猪",
       "numbers": [
-       7,
-       19,
-       31,
-       43
+       8,
+       20,
+       32,
+       44
       ],
       "omission": 3
      },
@@ -449537,136 +449739,976 @@
       "9": 0,
       "10": 0
      }
+    },
+    "2026294": {
+     "main_pick": [
+      6,
+      22,
+      40,
+      19,
+      10,
+      29
+     ],
+     "special_pick": 30,
+     "actual_mains": [
+      29,
+      43,
+      10,
+      2,
+      34,
+      27
+     ],
+     "actual_special": 28,
+     "pairs_2of2": [
+      [
+       28,
+       32
+      ],
+      [
+       5,
+       43
+      ],
+      [
+       17,
+       18
+      ],
+      [
+       17,
+       32
+      ],
+      [
+       2,
+       15
+      ],
+      [
+       29,
+       35
+      ],
+      [
+       38,
+       39
+      ],
+      [
+       23,
+       30
+      ],
+      [
+       24,
+       45
+      ],
+      [
+       10,
+       36
+      ],
+      [
+       10,
+       17
+      ],
+      [
+       10,
+       15
+      ],
+      [
+       30,
+       39
+      ],
+      [
+       15,
+       38
+      ],
+      [
+       16,
+       22
+      ],
+      [
+       33,
+       36
+      ],
+      [
+       16,
+       43
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       2,
+       19
+      ],
+      [
+       6,
+       8
+      ]
+     ],
+     "pairs_2of2_40": [
+      [
+       22,
+       45
+      ],
+      [
+       6,
+       29
+      ],
+      [
+       42,
+       43
+      ],
+      [
+       8,
+       20
+      ],
+      [
+       3,
+       5
+      ],
+      [
+       3,
+       32
+      ],
+      [
+       3,
+       40
+      ],
+      [
+       20,
+       38
+      ],
+      [
+       17,
+       38
+      ],
+      [
+       19,
+       39
+      ],
+      [
+       33,
+       46
+      ],
+      [
+       15,
+       43
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       22,
+       30
+      ],
+      [
+       37,
+       48
+      ],
+      [
+       45,
+       49
+      ],
+      [
+       2,
+       46
+      ],
+      [
+       32,
+       40
+      ],
+      [
+       2,
+       24
+      ],
+      [
+       8,
+       43
+      ],
+      [
+       19,
+       49
+      ],
+      [
+       21,
+       47
+      ],
+      [
+       29,
+       36
+      ],
+      [
+       6,
+       28
+      ],
+      [
+       3,
+       10
+      ],
+      [
+       2,
+       26
+      ],
+      [
+       8,
+       15
+      ],
+      [
+       24,
+       40
+      ],
+      [
+       1,
+       32
+      ],
+      [
+       44,
+       48
+      ],
+      [
+       25,
+       38
+      ],
+      [
+       17,
+       19
+      ],
+      [
+       10,
+       26
+      ],
+      [
+       25,
+       35
+      ],
+      [
+       9,
+       29
+      ],
+      [
+       5,
+       26
+      ],
+      [
+       3,
+       17
+      ],
+      [
+       19,
+       32
+      ],
+      [
+       18,
+       22
+      ],
+      [
+       6,
+       9
+      ]
+     ],
+     "pairs_2of2_60": [
+      [
+       16,
+       33
+      ],
+      [
+       1,
+       8
+      ],
+      [
+       24,
+       25
+      ],
+      [
+       8,
+       45
+      ],
+      [
+       21,
+       38
+      ],
+      [
+       26,
+       30
+      ],
+      [
+       20,
+       33
+      ],
+      [
+       15,
+       22
+      ],
+      [
+       19,
+       33
+      ],
+      [
+       3,
+       29
+      ],
+      [
+       29,
+       48
+      ],
+      [
+       8,
+       17
+      ],
+      [
+       1,
+       43
+      ],
+      [
+       1,
+       23
+      ],
+      [
+       22,
+       46
+      ],
+      [
+       24,
+       35
+      ],
+      [
+       22,
+       44
+      ],
+      [
+       10,
+       11
+      ],
+      [
+       11,
+       17
+      ],
+      [
+       1,
+       44
+      ],
+      [
+       6,
+       23
+      ],
+      [
+       19,
+       22
+      ],
+      [
+       10,
+       31
+      ],
+      [
+       15,
+       36
+      ],
+      [
+       22,
+       24
+      ],
+      [
+       15,
+       31
+      ],
+      [
+       17,
+       24
+      ],
+      [
+       38,
+       40
+      ],
+      [
+       22,
+       40
+      ],
+      [
+       5,
+       43
+      ],
+      [
+       22,
+       31
+      ],
+      [
+       19,
+       42
+      ],
+      [
+       3,
+       18
+      ],
+      [
+       17,
+       33
+      ],
+      [
+       26,
+       48
+      ],
+      [
+       7,
+       19
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       43,
+       46
+      ],
+      [
+       20,
+       22
+      ],
+      [
+       22,
+       45
+      ],
+      [
+       1,
+       17
+      ],
+      [
+       44,
+       45
+      ],
+      [
+       15,
+       29
+      ],
+      [
+       8,
+       18
+      ],
+      [
+       35,
+       40
+      ],
+      [
+       1,
+       19
+      ],
+      [
+       10,
+       45
+      ],
+      [
+       7,
+       11
+      ],
+      [
+       5,
+       27
+      ],
+      [
+       1,
+       30
+      ],
+      [
+       19,
+       49
+      ],
+      [
+       39,
+       45
+      ],
+      [
+       20,
+       49
+      ],
+      [
+       9,
+       30
+      ],
+      [
+       6,
+       15
+      ],
+      [
+       37,
+       39
+      ],
+      [
+       40,
+       46
+      ],
+      [
+       16,
+       40
+      ],
+      [
+       19,
+       37
+      ],
+      [
+       6,
+       20
+      ]
+     ],
+     "triples_3of3": [
+      [
+       6,
+       39,
+       45
+      ],
+      [
+       8,
+       10,
+       25
+      ],
+      [
+       31,
+       45,
+       47
+      ],
+      [
+       19,
+       38,
+       46
+      ],
+      [
+       6,
+       10,
+       19
+      ],
+      [
+       16,
+       26,
+       31
+      ],
+      [
+       11,
+       22,
+       24
+      ],
+      [
+       15,
+       39,
+       48
+      ],
+      [
+       6,
+       15,
+       38
+      ],
+      [
+       1,
+       18,
+       22
+      ],
+      [
+       19,
+       22,
+       26
+      ],
+      [
+       10,
+       25,
+       38
+      ],
+      [
+       1,
+       18,
+       29
+      ],
+      [
+       6,
+       32,
+       33
+      ],
+      [
+       20,
+       26,
+       45
+      ],
+      [
+       15,
+       24,
+       29
+      ],
+      [
+       29,
+       38,
+       49
+      ],
+      [
+       6,
+       9,
+       13
+      ],
+      [
+       25,
+       36,
+       39
+      ],
+      [
+       2,
+       6,
+       22
+      ]
+     ],
+     "triples_3of2": [
+      [
+       5,
+       11,
+       42
+      ],
+      [
+       8,
+       22,
+       41
+      ],
+      [
+       30,
+       36,
+       45
+      ],
+      [
+       6,
+       35,
+       40
+      ],
+      [
+       17,
+       31,
+       49
+      ],
+      [
+       6,
+       14,
+       17
+      ],
+      [
+       8,
+       10,
+       30
+      ],
+      [
+       20,
+       24,
+       40
+      ],
+      [
+       13,
+       29,
+       39
+      ],
+      [
+       7,
+       38,
+       44
+      ],
+      [
+       14,
+       20,
+       37
+      ],
+      [
+       9,
+       21,
+       24
+      ],
+      [
+       27,
+       32,
+       35
+      ],
+      [
+       9,
+       21,
+       47
+      ],
+      [
+       22,
+       24,
+       46
+      ],
+      [
+       6,
+       38,
+       42
+      ],
+      [
+       17,
+       26,
+       29
+      ],
+      [
+       9,
+       26,
+       49
+      ],
+      [
+       5,
+       6,
+       25
+      ],
+      [
+       19,
+       26,
+       39
+      ]
+     ],
+     "h2": 0,
+     "h2_40": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "h2_60": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "h3": 0,
+     "h3of2": 0,
+     "zodiac_hits": {
+      "1xiao": 0,
+      "2xiao": 0,
+      "3xiao": 0,
+      "4xiao": 1,
+      "5xiao": 0
+     },
+     "tail_hits": {
+      "0wei": 1,
+      "1_9wei": 0,
+      "2wei": 0,
+      "3wei": 0,
+      "4wei": 0,
+      "5wei": 0
+     },
+     "not_hit_wins": {
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+     }
     }
    },
    "live_hits_summary": {
-    "closed_issues": 58,
+    "closed_issues": 59,
     "2of2": {
      "20": {
-      "hit_rate": 0.0164,
+      "hit_rate": 0.0161,
       "hits": 19,
-      "groups": 1160,
+      "groups": 1180,
       "issues_with_hit": 15
      },
      "40": {
-      "hit_rate": 0.0118,
+      "hit_rate": 0.0116,
       "hits": 25,
-      "groups": 2120,
+      "groups": 2160,
       "issues_with_hit": 19
      },
      "60": {
-      "hit_rate": 0.016,
+      "hit_rate": 0.0157,
       "hits": 51,
-      "groups": 3180,
+      "groups": 3240,
       "issues_with_hit": 33
      }
     },
     "3of3": {
-     "hit_rate": 0.0009,
+     "hit_rate": 0.0008,
      "hits": 1,
-     "groups": 1160,
+     "groups": 1180,
      "issues_with_hit": 1
     },
     "3of2": {
-     "hit_rate": 0.0267,
+     "hit_rate": 0.0263,
      "hits": 31,
-     "groups": 1160,
+     "groups": 1180,
      "issues_with_hit": 25
     },
     "special_hit": {
      "hit_rate": 0.0,
      "hits": 0,
-     "issues": 58
+     "issues": 59
     },
     "zodiac": {
      "1xiao": {
-      "hit_rate": 0.5,
+      "hit_rate": 0.4915,
       "hits": 29,
-      "issues": 58
+      "issues": 59
      },
      "2xiao": {
-      "hit_rate": 0.1897,
+      "hit_rate": 0.1864,
       "hits": 11,
-      "issues": 58
+      "issues": 59
      },
      "3xiao": {
-      "hit_rate": 0.1379,
+      "hit_rate": 0.1356,
       "hits": 8,
-      "issues": 58
+      "issues": 59
      },
      "4xiao": {
-      "hit_rate": 0.0345,
-      "hits": 2,
-      "issues": 58
+      "hit_rate": 0.0508,
+      "hits": 3,
+      "issues": 59
      },
      "5xiao": {
-      "hit_rate": 0.0345,
+      "hit_rate": 0.0339,
       "hits": 2,
-      "issues": 58
+      "issues": 59
      }
     },
     "tail": {
      "0wei": {
-      "hit_rate": 0.4828,
-      "hits": 28,
-      "issues": 58
+      "hit_rate": 0.4915,
+      "hits": 29,
+      "issues": 59
      },
      "1_9wei": {
-      "hit_rate": 0.2759,
+      "hit_rate": 0.2712,
       "hits": 16,
-      "issues": 58
+      "issues": 59
      },
      "2wei": {
-      "hit_rate": 0.1379,
+      "hit_rate": 0.1356,
       "hits": 8,
-      "issues": 58
+      "issues": 59
      },
      "3wei": {
-      "hit_rate": 0.1552,
+      "hit_rate": 0.1525,
       "hits": 9,
-      "issues": 58
+      "issues": 59
      },
      "4wei": {
-      "hit_rate": 0.069,
+      "hit_rate": 0.0678,
       "hits": 4,
-      "issues": 58
+      "issues": 59
      },
      "5wei": {
-      "hit_rate": 0.0172,
+      "hit_rate": 0.0169,
       "hits": 1,
-      "issues": 58
+      "issues": 59
      }
     },
     "not_hit": {
      "5": {
-      "hit_rate": 0.4828,
+      "hit_rate": 0.4746,
       "hits": 28,
-      "issues": 58
+      "issues": 59
      },
      "6": {
-      "hit_rate": 0.431,
-      "hits": 25,
-      "issues": 58
+      "hit_rate": 0.4407,
+      "hits": 26,
+      "issues": 59
      },
      "7": {
-      "hit_rate": 0.3966,
+      "hit_rate": 0.3898,
       "hits": 23,
-      "issues": 58
+      "issues": 59
      },
      "8": {
-      "hit_rate": 0.1552,
+      "hit_rate": 0.1525,
       "hits": 9,
-      "issues": 58
+      "issues": 59
      },
      "9": {
-      "hit_rate": 0.2759,
+      "hit_rate": 0.2712,
       "hits": 16,
-      "issues": 58
+      "issues": 59
      },
      "10": {
-      "hit_rate": 0.1724,
+      "hit_rate": 0.1695,
       "hits": 10,
-      "issues": 58
+      "issues": 59
      }
     }
    },
@@ -462894,43 +463936,271 @@
      "h2_ai": 0,
      "h3_ai": 0,
      "rebuilt": 0
+    },
+    "2026294": {
+     "main_pick": [
+      44,
+      42,
+      45,
+      20,
+      26,
+      27
+     ],
+     "special_pick": 24,
+     "top3_zodiac": [
+      "狗",
+      "羊",
+      "牛"
+     ],
+     "top10": [
+      44,
+      42,
+      45,
+      20,
+      26,
+      27,
+      31,
+      48,
+      36,
+      15
+     ],
+     "pairs_2of2": [
+      [
+       38,
+       48
+      ],
+      [
+       17,
+       24
+      ],
+      [
+       6,
+       38
+      ],
+      [
+       35,
+       49
+      ],
+      [
+       15,
+       22
+      ],
+      [
+       1,
+       47
+      ],
+      [
+       15,
+       36
+      ],
+      [
+       4,
+       31
+      ],
+      [
+       26,
+       31
+      ],
+      [
+       12,
+       37
+      ],
+      [
+       41,
+       48
+      ],
+      [
+       36,
+       38
+      ],
+      [
+       43,
+       47
+      ],
+      [
+       21,
+       38
+      ],
+      [
+       11,
+       37
+      ],
+      [
+       10,
+       29
+      ],
+      [
+       9,
+       48
+      ],
+      [
+       23,
+       47
+      ],
+      [
+       24,
+       27
+      ],
+      [
+       24,
+       46
+      ]
+     ],
+     "triples_3of3": [
+      [
+       5,
+       24,
+       32
+      ],
+      [
+       36,
+       42,
+       45
+      ],
+      [
+       6,
+       27,
+       35
+      ],
+      [
+       3,
+       20,
+       33
+      ],
+      [
+       29,
+       40,
+       44
+      ],
+      [
+       6,
+       20,
+       47
+      ],
+      [
+       37,
+       40,
+       46
+      ],
+      [
+       11,
+       24,
+       49
+      ],
+      [
+       17,
+       23,
+       35
+      ],
+      [
+       17,
+       27,
+       41
+      ],
+      [
+       2,
+       26,
+       34
+      ],
+      [
+       21,
+       33,
+       42
+      ],
+      [
+       15,
+       42,
+       44
+      ],
+      [
+       5,
+       16,
+       44
+      ],
+      [
+       11,
+       43,
+       47
+      ],
+      [
+       3,
+       43,
+       47
+      ],
+      [
+       24,
+       29,
+       44
+      ],
+      [
+       9,
+       44,
+       49
+      ],
+      [
+       10,
+       42,
+       49
+      ],
+      [
+       37,
+       39,
+       44
+      ]
+     ],
+     "actual_mains": [
+      29,
+      43,
+      10,
+      2,
+      34,
+      27
+     ],
+     "actual_special": 28,
+     "main_hit": 1,
+     "special_hit": 0,
+     "zodiac_hit": 0,
+     "top10_hit": 0,
+     "h2_ai": 1,
+     "h3_ai": 0,
+     "rebuilt": 0
     }
    },
    "ai_live_hits_summary": {
-    "closed_issues": 58,
+    "closed_issues": 59,
     "rebuilt": 8,
     "main": {
-     "hit_rate": 0.1236,
-     "avg_hit": 0.74,
-     "hits": 43,
-     "total": 348,
-     "issues_with_hit": 30
+     "hit_rate": 0.1243,
+     "avg_hit": 0.75,
+     "hits": 44,
+     "total": 354,
+     "issues_with_hit": 31
     },
     "special_hit": {
-     "hit_rate": 0.0345,
+     "hit_rate": 0.0339,
      "hits": 2,
-     "issues": 58
+     "issues": 59
     },
     "zodiac_hit": {
-     "hit_rate": 0.3103,
+     "hit_rate": 0.3051,
      "hits": 18,
-     "issues": 58
+     "issues": 59
     },
     "top10_hit": {
-     "hit_rate": 0.1724,
+     "hit_rate": 0.1695,
      "hits": 10,
-     "issues": 58
+     "issues": 59
     },
     "2of2": {
-     "hit_rate": 0.0155,
-     "hits": 18,
-     "groups": 1160,
-     "issues_with_hit": 17
+     "hit_rate": 0.0161,
+     "hits": 19,
+     "groups": 1180,
+     "issues_with_hit": 18
     },
     "3of3": {
      "hit_rate": 0.0,
      "hits": 0,
-     "groups": 1160,
+     "groups": 1180,
      "issues_with_hit": 0
     }
    }
@@ -532696,9 +533966,9 @@
       16,
       45,
       48,
-      28,
       47,
-      41,
+      28,
+      22,
       46
      ],
      "top10_info": [
@@ -532733,19 +534003,19 @@
        "element": "火"
       },
       {
-       "num": 28,
-       "zodiac": "兔",
-       "element": "土"
-      },
-      {
        "num": 47,
        "zodiac": "猴",
        "element": "木"
       },
       {
-       "num": 41,
-       "zodiac": "虎",
-       "element": "火"
+       "num": 28,
+       "zodiac": "兔",
+       "element": "土"
+      },
+      {
+       "num": 22,
+       "zodiac": "鸡",
+       "element": "水"
       },
       {
        "num": 46,
@@ -532782,59 +534052,59 @@
      "element_rank": [
       {
        "element": "水",
-       "score": 58.1,
-       "share": 18.62,
-       "due": 1.38
+       "score": 58.2,
+       "share": 18.61,
+       "due": 1.39
       },
       {
        "element": "土",
-       "score": 53.1,
-       "share": 17.21,
-       "due": 2.79
+       "score": 52.6,
+       "share": 17.28,
+       "due": 2.72
       },
       {
        "element": "木",
-       "score": 46.8,
-       "share": 19.98,
-       "due": 0.02
+       "score": 46.4,
+       "share": 19.97,
+       "due": 0.03
       },
       {
        "element": "火",
-       "score": 38.6,
-       "share": 24.09,
+       "score": 38.1,
+       "share": 24.06,
        "due": 0.0
       },
       {
        "element": "金",
-       "score": 30.0,
-       "share": 20.1,
+       "score": 29.6,
+       "share": 20.08,
        "due": 0.0
       }
      ],
      "wave_rank": [
       {
        "wave": "蓝波",
-       "score": 54.9,
-       "share": 29.9,
-       "due": 3.43
+       "score": 54.4,
+       "share": 29.86,
+       "due": 3.47
       },
       {
        "wave": "绿波",
-       "score": 45.6,
-       "share": 32.83,
-       "due": 0.51
+       "score": 45.1,
+       "share": 32.82,
+       "due": 0.52
       },
       {
        "wave": "红波",
-       "score": 35.7,
-       "share": 37.27,
+       "score": 35.5,
+       "share": 37.32,
        "due": 0.0
       }
      ],
      "parity": {
       "recommend": "双",
-      "odd_share": 51.79,
-      "even_share": 48.21
+      "odd_share": 51.84,
+      "even_share": 48.16
      },
      "top_tails": [
       0,
@@ -532910,106 +534180,106 @@
       }
      ],
      "comp_main": {
-      "1": 62.5,
-      "2": 24.4,
-      "3": 28.0,
-      "4": 56.3,
-      "5": 9.0,
-      "6": 66.3,
-      "7": 46.3,
+      "1": 62.6,
+      "2": 22.8,
+      "3": 27.8,
+      "4": 56.2,
+      "5": 6.3,
+      "6": 66.0,
+      "7": 46.0,
       "8": 0.0,
       "9": 26.1,
-      "10": 21.4,
-      "11": 44.7,
-      "12": 9.4,
-      "13": 7.1,
-      "14": 62.6,
+      "10": 21.2,
+      "11": 45.0,
+      "12": 9.6,
+      "13": 6.9,
+      "14": 61.4,
       "15": 100.0,
-      "16": 77.2,
-      "17": 28.9,
-      "18": 25.9,
-      "19": 23.8,
-      "20": 46.9,
-      "21": 44.7,
-      "22": 70.2,
-      "23": 41.5,
-      "24": 39.3,
-      "25": 83.9,
-      "26": 58.9,
-      "27": 9.7,
+      "16": 77.4,
+      "17": 26.2,
+      "18": 25.7,
+      "19": 23.6,
+      "20": 46.6,
+      "21": 44.5,
+      "22": 70.3,
+      "23": 42.2,
+      "24": 39.6,
+      "25": 83.7,
+      "26": 57.2,
+      "27": 9.5,
       "28": 71.8,
-      "29": 36.5,
-      "30": 15.9,
-      "31": 29.8,
-      "32": 55.1,
+      "29": 33.6,
+      "30": 16.1,
+      "31": 30.1,
+      "32": 54.9,
       "33": 3.0,
-      "34": 60.3,
-      "35": 31.1,
-      "36": 68.6,
-      "37": 43.3,
-      "38": 6.1,
+      "34": 60.0,
+      "35": 31.5,
+      "36": 68.8,
+      "37": 43.1,
+      "38": 4.9,
       "39": 64.1,
-      "40": 3.3,
-      "41": 71.4,
-      "42": 35.7,
-      "43": 23.0,
-      "44": 66.3,
+      "40": 3.5,
+      "41": 68.4,
+      "42": 35.5,
+      "43": 22.8,
+      "44": 66.5,
       "45": 74.4,
-      "46": 70.3,
-      "47": 71.7,
+      "46": 70.1,
+      "47": 72.0,
       "48": 73.0,
-      "49": 88.7
+      "49": 88.4
      },
      "comp_special": {
       "1": 85.8,
-      "2": 46.1,
-      "3": 39.1,
-      "4": 56.3,
-      "5": 9.4,
-      "6": 59.2,
-      "7": 58.3,
-      "8": 46.7,
-      "9": 37.6,
-      "10": 14.2,
-      "11": 52.2,
+      "2": 44.7,
+      "3": 38.8,
+      "4": 56.1,
+      "5": 7.1,
+      "6": 58.8,
+      "7": 58.0,
+      "8": 46.6,
+      "9": 37.4,
+      "10": 13.9,
+      "11": 52.3,
       "12": 9.7,
-      "13": 62.1,
-      "14": 71.1,
-      "15": 90.5,
+      "13": 61.9,
+      "14": 70.0,
+      "15": 90.4,
       "16": 67.8,
-      "17": 25.0,
-      "18": 12.8,
-      "19": 40.7,
-      "20": 49.0,
-      "21": 47.2,
+      "17": 22.7,
+      "18": 12.4,
+      "19": 40.4,
+      "20": 48.6,
+      "21": 46.9,
       "22": 72.1,
-      "23": 74.3,
-      "24": 57.8,
-      "25": 77.9,
-      "26": 53.4,
-      "27": 29.6,
-      "28": 78.3,
-      "29": 40.8,
+      "23": 74.7,
+      "24": 57.9,
+      "25": 77.7,
+      "26": 51.9,
+      "27": 29.4,
+      "28": 78.2,
+      "29": 38.4,
       "30": 24.7,
-      "31": 25.7,
-      "32": 65.2,
-      "33": 9.7,
-      "34": 74.2,
-      "35": 26.7,
+      "31": 25.8,
+      "32": 65.0,
+      "33": 9.5,
+      "34": 73.9,
+      "35": 26.9,
       "36": 51.2,
-      "37": 26.4,
-      "38": 36.7,
-      "39": 67.4,
+      "37": 26.1,
+      "38": 35.6,
+      "39": 67.2,
       "40": 0.0,
-      "41": 58.2,
-      "42": 45.1,
-      "43": 35.1,
-      "44": 83.8,
+      "41": 55.8,
+      "42": 44.8,
+      "43": 34.9,
+      "44": 83.9,
       "45": 100.0,
-      "46": 72.2,
-      "47": 53.6,
-      "48": 59.5,
-      "49": 91.6
+      "46": 71.9,
+      "47": 53.7,
+      "48": 59.4,
+      "49": 91.2
      },
      "pairs_2of2": [
       [
@@ -533034,58 +534304,58 @@
       ],
       [
        6,
-       45
+       16
       ],
       [
-       1,
+       14,
        26
       ],
       [
-       31,
-       41
+       28,
+       31
       ],
       [
        11,
-       28
+       47
       ],
       [
-       39,
+       6,
        42
       ],
       [
-       4,
-       15
+       15,
+       26
       ],
       [
        16,
-       41
+       22
       ],
       [
        25,
        49
       ],
       [
-       7,
-       14
+       1,
+       7
       ],
       [
        6,
        34
       ],
       [
-       1,
-       4
+       4,
+       14
       ],
       [
        7,
-       37
+       21
       ],
       [
        7,
        35
       ],
       [
-       18,
+       9,
        39
       ],
       [
@@ -533095,69 +534365,69 @@
      ],
      "triples_3of3": [
       [
+       22,
        25,
-       41,
        49
       ],
       [
+       22,
        26,
-       35,
-       41
+       35
       ],
       [
        11,
-       22,
+       36,
        39
       ],
       [
        20,
-       22,
+       36,
        49
       ],
       [
-       6,
-       17,
-       19
-      ],
-      [
-       1,
-       17,
-       24
+       2,
+       3,
+       6
       ],
       [
        3,
-       18,
-       22
+       14,
+       24
       ],
       [
-       1,
+       17,
+       18,
+       36
+      ],
+      [
+       14,
        15,
-       28
+       47
       ],
       [
        6,
-       37,
+       21,
        46
       ],
       [
        1,
        14,
-       36
+       41
       ],
       [
        16,
-       34,
-       42
+       29,
+       34
       ],
       [
        26,
-       36,
+       41,
        49
       ],
       [
        4,
        6,
-       36
+       41
       ],
       [
        15,
@@ -533165,14 +534435,14 @@
        46
       ],
       [
-       12,
        20,
-       26
+       26,
+       27
       ],
       [
+       1,
        11,
-       14,
-       28
+       47
       ],
       [
        16,
@@ -533180,8 +534450,8 @@
        49
       ],
       [
-       2,
-       3,
+       17,
+       19,
        24
       ],
       [
@@ -533190,9 +534460,9 @@
        45
       ],
       [
-       19,
+       2,
        23,
-       29
+       42
       ]
      ],
      "main_zodiac": {
